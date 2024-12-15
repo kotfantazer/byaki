@@ -4,8 +4,8 @@ survey byaki_01 -title "byaki 01"
 
   centerline
     date 2024.12.15 
-    team Горшков
-    team Жданова 
+    team "Горшков"
+    team "Жданова" 
     units length meters
     units compass clino degrees
     data normal from to length compass clino
