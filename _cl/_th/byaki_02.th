@@ -1,0 +1,106 @@
+# 2024.12.15 created by TopoDroid v 6.2.65
+
+survey byaki_02 -title "byaki 02"
+
+  centerline
+    date 2024.12.15 
+    team Горшков
+    team Жданова 
+    units length meters
+    units compass clino degrees
+    data normal from to length compass clino
+    extend right
+    148 22 3.70 15.5 -6.9
+    extend left
+    22 23 10.93 100.9 3.4
+    extend right
+    23 175 7.70 41.6 -2.7
+    extend vertical
+    175 24 8.68 92.6 -2.6
+    24 160 7.63 86.1 2.7
+    extend right
+    160 159 13.85 61.9 2.9
+    159 163 5.04 77.2 -2.2
+    163 174 10.76 48.4 -0.8
+    174 25 6.16 36.1 3.5
+    25 209 12.50 62.0 -4.3
+    209 26 10.31 47.3 6.5
+    extend left
+    26 211 8.20 105.0 -4.6
+    extend right
+    211 212 6.63 53.7 -0.7
+    212 27 4.04 8.2 15.0
+    27 213 3.17 57.7 7.3
+    213 214 6.70 34.4 -5.6
+    214 28 5.29 31.4 -3.1
+    28 29 5.62 56.6 5.5
+    extend left
+    29 215 2.47 113.6 2.4
+    extend right
+    215 30 5.05 24.1 6.8
+    30 31 10.91 58.1 -0.7
+    extend left
+    31 32 3.40 114.4 0.9
+    extend right
+    32 216 2.24 61.6 5.6
+    216 33 5.45 347.8 -2.6
+    33 217 2.50 50.4 9.5
+    extend vertical
+    217 233 4.33 99.5 4.4
+    extend left
+    233 34 3.40 134.7 -0.5
+    extend right
+    34 35 14.05 68.7 1.9
+    extend left
+    35 36 8.01 106.1 3.2
+    extend vertical
+    36 234 4.13 80.2 -1.9
+    extend right
+    234 37 4.69 330.3 0.9
+    37 235 14.05 327.1 -3.1
+    235 237 10.19 57.4 1.8
+    237 38 7.58 41.3 -5.1
+    38 39 5.75 49.1 -0.1
+    extend left
+    39 238 3.04 131.2 5.1
+    238 40 6.04 134.3 -1.0
+    extend right
+    40 41 10.12 66.4 6.0
+    # extend auto
+    41 . 5.16 49.2 4.5
+    41 . 3.28 49.2 4.5
+    41 . 2.70 49.2 4.4
+    41 . 5.17 49.3 4.4
+    extend right
+    41 239 5.10 48.6 3.2
+    extend left
+    239 42 6.82 177.2 -1.7
+  endcenterline
+
+  # input "byaki_02-1p.th2"
+  # input "byaki_02-2s.th2"
+  # input "byaki_02-3p.th2"
+  # input "byaki_02-4p.th2"
+  # input "byaki_02-4s.th2"
+  # input "byaki_02-5p.th2"
+
+  # map m1p -projection plan
+  #   byaki_02-1p
+  # endmap
+  # map m2s -projection extended
+  #   byaki_02-2s
+  # endmap
+  # map m3p -projection plan
+  #   byaki_02-3p
+  # endmap
+  # map m4p -projection plan
+  #   byaki_02-4p
+  # endmap
+  # map m4s -projection extended
+  #   byaki_02-4s
+  # endmap
+  # map m5p -projection plan
+  #   byaki_02-5p
+  # endmap
+
+endsurvey

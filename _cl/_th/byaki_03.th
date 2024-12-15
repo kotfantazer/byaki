@@ -1,0 +1,17 @@
+# 2024.12.15 created by TopoDroid v 6.2.65
+
+survey byaki_03 -title "byaki 03"
+
+  centerline
+    date 2024.12.15 
+    team Горшков
+    team Жданова 
+    units length meters
+    units compass clino degrees
+    data normal from to length compass clino
+    extend left
+    42 43 21.40 121.8 2.0
+    43 289 6.24 138.2 -1.9
+  endcenterline
+
+endsurvey

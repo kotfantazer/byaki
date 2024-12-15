@@ -1,0 +1,25 @@
+encoding  utf-8
+survey byaki -title "Гурьевские каменоломни"
+  centerline
+    mark fixed
+    fix 0@b_1 1482226 5077758 619
+    date 2024
+    data nosurvey from to
+
+
+    station 0 "Вход" entrance
+  endcenterline
+
+    input byaki_01.th
+
+    input byaki_02.th
+        equate 148@byaki_01 148@byaki_02
+
+    input byaki_03.th
+        equate 42@byaki_02 42@byaki_03
+    
+    input byaki_04.th
+        equate 239@byaki_02 239@byaki_04
+
+endsurvey
+

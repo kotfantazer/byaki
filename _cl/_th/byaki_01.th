@@ -1,0 +1,91 @@
+# 2024.12.15 created by TopoDroid v 6.2.65
+
+survey byaki_01 -title "byaki 01"
+
+  centerline
+    date 2024.12.15 
+    team Горшков
+    team Жданова 
+    units length meters
+    units compass clino degrees
+    data normal from to length compass clino
+    extend left
+    0 1 4.25 111.4 -2.3
+    extend right
+    1 2 5.33 354.2 0.4
+    extend vertical
+    2 3 4.98 91.6 -44.3
+    extend right
+    3 4 0.25 53.7 -0.5
+    extend vertical
+    4 5 10.71 93.4 -0.5
+    extend left
+    5 6 4.44 113.9 22.0
+    6 7 5.75 129.1 -13.0
+    extend right
+    7 8 3.73 65.3 0.0
+    extend left
+    8 141 2.98 125.5 6.6
+    extend right
+    141 9 12.17 78.5 -0.1
+    extend left
+    9 10 2.40 101.1 15.4
+    10 11 10.93 131.8 -2.5
+    11 12 8.81 115.7 5.6
+    12 145 8.13 102.4 6.8
+    extend right
+    145 13 4.35 31.3 -7.2
+    13 14 6.61 72.3 5.9
+    14 146 4.99 9.7 9.8
+    extend vertical
+    146 15 4.44 260.8 -10.0
+    extend right
+    15 16 3.97 320.2 -13.4
+    16 17 8.36 357.2 0.5
+    17 147 1.75 320.8 3.4
+    147 18 3.48 347.9 0.3
+    18 19 1.53 30.7 5.5
+    19 20 9.13 287.5 -0.9
+    20 21 4.18 301.9 -4.5
+    21 148 2.80 3.4 -3.4
+  endcenterline
+
+  # input "byaki_01-1p.th2"
+  # input "byaki_01-2s.th2"
+  # input "byaki_01-3p.th2"
+  # input "byaki_01-4p.th2"
+  # input "byaki_01-5p.th2"
+  # input "byaki_01-6p.th2"
+  # input "byaki_01-7s.th2"
+  # input "byaki_01-141p.th2"
+  # input "byaki_01-142p.th2"
+
+  # map m1p -projection plan
+  #   byaki_01-1p
+  # endmap
+  # map m2s -projection extended
+  #   byaki_01-2s
+  # endmap
+  # map m3p -projection plan
+  #   byaki_01-3p
+  # endmap
+  # map m4p -projection plan
+  #   byaki_01-4p
+  # endmap
+  # map m5p -projection plan
+  #   byaki_01-5p
+  # endmap
+  # map m6p -projection plan
+  #   byaki_01-6p
+  # endmap
+  # map m7s -projection extended
+  #   byaki_01-7s
+  # endmap
+  # map m141p -projection plan
+  #   byaki_01-141p
+  # endmap
+  # map m142p -projection plan
+  #   byaki_01-142p
+  # endmap
+
+endsurvey
