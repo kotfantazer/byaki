@@ -1,0 +1,53 @@
+therion 6.2.1 (2024-03-20)
+  - using Proj 9.3.1, compiled against 9.3.1
+initialization file: C:\Program Files\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.4.8
+ 2> Copyright (C) 1990-2024 Olly Betts
+ 3> 
+ 4> Survey contains 93 survey stations, joined by 92 shots.
+ 5> There are 0 loops.
+ 6> Total length of survey shots =  582.77m ( 582.77m adjusted)
+ 7> Total plan length of survey shots =  578.90m
+ 8> Total vertical length of survey shots =   42.05m
+ 9> Vertical range = 5.83m (from 74 at 621.13m to 6 at 615.29m)
+10> North-South range = 205.54m (from 93 at 5077950.51m to 15 at 5077744.97m)
+11> East-West range = 268.09m (from 75 at 1482494.09m to 1 at 1482226.00m)
+12>    8 1-nodes.
+13>   82 2-nodes.
+14>    2 3-nodes.
+15>    1 6-node.
+16> 
+######################### transcription ########################
+ 4> 93 : 52@byaki_04.byaki -- 92 : 320@byaki_04.byaki
+ 9> 74 : 43@byaki_03.byaki -- 6 : 5@byaki_01.byaki
+10> 93 : 52@byaki_04.byaki -- 15 : 145@byaki_01.byaki
+11> 75 : 289@byaki_03.byaki -- 1 : 0@byaki_01.byaki
+12> 8 : 7@byaki_01.byaki
+13> 82 : .@byaki_04.byaki
+14> 2 : 1@byaki_01.byaki
+15> 1 : 0@byaki_01.byaki
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+writing ../byaki.3d ... done
+writing ../byaki.lox ...
+processing projection plan ... done
+ done
+writing ../byaki.plt ... done
+writing ../byaki.dxf ... done
+C:\Program Files\Therion\therion.exe: warning -- data not georeferenced -- unable to export KML file
+writing xtherion file ... done
+compilation time: 1 sec

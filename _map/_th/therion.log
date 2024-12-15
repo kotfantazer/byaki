@@ -1,0 +1,106 @@
+therion 6.2.1 (2024-03-20)
+  - using Proj 9.3.1, compiled against 9.3.1
+initialization file: C:\Program Files\Therion/therion.ini
+reading ... done
+configuration file: byaki-map.thcfg
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.4.8
+ 2> Copyright (C) 1990-2024 Olly Betts
+ 3> 
+ 4> Survey contains 93 survey stations, joined by 92 shots.
+ 5> There are 0 loops.
+ 6> Total length of survey shots =  582.77m ( 582.77m adjusted)
+ 7> Total plan length of survey shots =  578.90m
+ 8> Total vertical length of survey shots =   42.05m
+ 9> Vertical range = 5.83m (from 74 at 621.13m to 6 at 615.29m)
+10> North-South range = 205.54m (from 93 at 5077950.51m to 15 at 5077744.97m)
+11> East-West range = 268.09m (from 75 at 1482494.09m to 1 at 1482226.00m)
+12>    8 1-nodes.
+13>   82 2-nodes.
+14>    2 3-nodes.
+15>    1 6-node.
+16> 
+######################### transcription ########################
+ 4> 93 : 52@byaki_04.byaki -- 92 : 320@byaki_04.byaki
+ 9> 74 : 43@byaki_03.byaki -- 6 : 5@byaki_01.byaki
+10> 93 : 52@byaki_04.byaki -- 15 : 145@byaki_01.byaki
+11> 75 : 289@byaki_03.byaki -- 1 : 0@byaki_01.byaki
+12> 8 : 7@byaki_01.byaki
+13> 82 : .@byaki_04.byaki
+14> 2 : 1@byaki_01.byaki
+15> 1 : 0@byaki_01.byaki
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+processing projection plan ... done
+
+
+############### export maps & scraps selection #################
+S     -.-- @ ()
+########## end of export maps & scraps selection ###############
+writing byaki-map.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  15 DEC 2024 20:33
+**data.mp
+(c:/Program Files/Therion/texmf/mpost/mpost.mp
+(c:/Program Files/Therion/texmf/mpost/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[1] [2] [3] (./mptextmp.mp) [4] )
+ 
+Here is how much of MetaPost's memory you used:
+ 10475 strings using 322990 characters
+ 3372104 bytes of node memory
+ 1685 symbolic tokens
+ 8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
+18 output files written: data-patt.1 .. data-patt.14
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  15 DEC 2024 20:33
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files/Therion/texmf/tex/glyphtounicode.tex)) (./th_fontdef.tex{c:/P
+rogram Files/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 51 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 275 strings out of 95671
+ 3841 string characters out of 1192323
+ 74342 words of memory out of 1556385
+ 1671 multiletter control sequences out of 15000+50000
+ 18931 words of font info for 60 fonts, out of 1000000 for 2000
+ 844 hyphenation exceptions out of 5000
+ 9i,5n,6p,229b,60s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files/Therion/texmf/fonts/type1/cmcss10.pfb><c:/Program Files
+/Therion/texmf/fonts/type1/cmcssi10.pfb><c:/Program Files/Therion/texmf/fonts/t
+ype1/cmss10.pfb><c:/Program Files/Therion/texmf/fonts/type1/cmssi10.pfb>
+Output written on data.pdf (1 page, 52768 bytes).
+PDF statistics:
+ 48 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 67 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing xtherion file ... done
+compilation time: 1 sec
