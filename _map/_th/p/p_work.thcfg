@@ -2,13 +2,7 @@ encoding  utf-8
 source ../../../_cl/_th/byaki
 source maps
 
-# input ../../../../../../_settings/th/default.thc
-
 layout _local
-#   copy symbols_krasspeleo
-#   copy map_work
-#   copy hdr_top_right_out
-#   copy style_filled_in
   base-scale 1 150
   
   debug station-names

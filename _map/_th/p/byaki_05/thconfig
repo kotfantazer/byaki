@@ -1,15 +1,7 @@
 encoding  utf-8
 source ../../../../_cl/_th/byaki
-# source maps
 
-# input ../../../../../../../_settings/th/default.thc
-
- layout _local  
-  # copy symbols_krasspeleo
-  # copy map_work
-  # copy map_part
-  # copy style_filled_in
-  
+ layout _local    
   scale 1 100
   base-scale 1 90
   
