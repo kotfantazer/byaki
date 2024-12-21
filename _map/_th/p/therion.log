@@ -1,0 +1,145 @@
+therion 6.2.1 (2024-03-20)
+  - using Proj 9.3.1, compiled against 9.3.1
+initialization file: C:\Program Files\Therion/therion.ini
+reading ... done
+configuration file: p_work.thcfg
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.4.8
+ 2> Copyright (C) 1990-2024 Olly Betts
+ 3> 
+ 4> Survey contains 624 survey stations, joined by 623 shots.
+ 5> There are 0 loops.
+ 6> Total length of survey shots =  693.76m ( 693.76m adjusted)
+ 7> Total plan length of survey shots =  689.57m
+ 8> Total vertical length of survey shots =   48.34m
+ 9> Vertical range = 7.83m (from 74 at 621.13m to 397 at 613.30m)
+10> North-South range = 235.99m (from 397 at 5077980.96m to 15 at 5077744.97m)
+11> East-West range = 268.09m (from 75 at 1482494.09m to 1 at 1482226.00m)
+12>  521 1-nodes.
+13>   83 2-nodes.
+14>    2 3-nodes.
+15>    1 6-node.
+16>    1 13-node.
+17>    1 18-node.
+18>    2 19-nodes.
+19>    2 24-nodes.
+20>    1 26-node.
+21>    1 30-node.
+22>    2 31-nodes.
+23>    2 33-nodes.
+24>    1 39-node.
+25>    1 41-node.
+26>    1 43-node.
+27>    1 47-node.
+28>    1 76-node.
+29> 
+######################### transcription ########################
+ 4> 624 : .@byaki_05.byaki -- 623 : .@byaki_05.byaki
+ 9> 74 : 43@byaki_03.byaki -- 397 : .@byaki_05.byaki
+10> 397 : .@byaki_05.byaki -- 15 : 145@byaki_01.byaki
+11> 75 : 289@byaki_03.byaki -- 1 : 0@byaki_01.byaki
+12> 521 : .@byaki_05.byaki
+13> 83 : 47@byaki_04.byaki
+14> 2 : 1@byaki_01.byaki
+15> 1 : 0@byaki_01.byaki
+16> 1 : 0@byaki_01.byaki
+17> 1 : 0@byaki_01.byaki
+18> 2 : 1@byaki_01.byaki
+19> 2 : 1@byaki_01.byaki
+20> 1 : 0@byaki_01.byaki
+21> 1 : 0@byaki_01.byaki
+22> 2 : 1@byaki_01.byaki
+23> 2 : 1@byaki_01.byaki
+24> 1 : 0@byaki_01.byaki
+25> 1 : 0@byaki_01.byaki
+26> 1 : 0@byaki_01.byaki
+27> 1 : 0@byaki_01.byaki
+28> 1 : 0@byaki_01.byaki
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... 
+C:\Program Files\Therion\therion.exe: warning -- p_work.thcfg [19] -- object not found -- "work_p"
+done
+processing projection plan ... done
+average distortion: 0.04%
+
+
+############### export maps & scraps selection #################
+M   616.11 byaki_05-320p-p@ (Могила Боцмана и Елка)
+S   616.11 byaki_05-320p@ ()
+########## end of export maps & scraps selection ###############
+writing byaki_p_work.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  21 DEC 2024 20:28
+**data.mp
+(c:/Program Files/Therion/texmf/mpost/mpost.mp
+(c:/Program Files/Therion/texmf/mpost/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[1]
+[Warning: scrap outline intersects itself in scrap byaki_05-320p]
+[Warning: scrap outline intersects itself in scrap byaki_05-320p] [2] [3] [4]
+[5] (./mptextmp.mp) [6] )
+ 
+Here is how much of MetaPost's memory you used:
+ 15019 strings using 405106 characters
+ 3506272 bytes of node memory
+ 1687 symbolic tokens
+ 8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
+20 output files written: data-patt.1 .. data-patt.14
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  21 DEC 2024 20:28
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files/Therion/texmf/tex/glyphtounicode.tex)) (./th_fontdef.tex{c:/P
+rogram Files/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 55 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 278 strings out of 95671
+ 3887 string characters out of 1192323
+ 46328 words of memory out of 1532371
+ 1674 multiletter control sequences out of 15000+50000
+ 18931 words of font info for 60 fonts, out of 1000000 for 2000
+ 844 hyphenation exceptions out of 5000
+ 9i,5n,6p,229b,60s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/
+Therion/texmf/fonts/type1/cmssi10.pfb>
+Output written on data.pdf (1 page, 61266 bytes).
+PDF statistics:
+ 46 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing xtherion file ... done
+compilation time: 1 sec
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.04%    1.14%  byaki_05-320p@
+################### end of scrap distortions ###################

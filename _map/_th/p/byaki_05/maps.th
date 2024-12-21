@@ -1,0 +1,7 @@
+encoding  utf-8
+input p.th2
+
+map byaki_05-320p-p -proj plan -title "Могила Боцмана и Елка"
+  byaki_05-320p
+endmap
+
