@@ -13,5 +13,5 @@ xth_cp_map_tree_insert map 1 619X1 p1 1 byaki_05-320p-p byaki_05-320p-p "Мог�
 xth_cp_map_tree_create
 xth_cp_comp_stat 694 1
 set xth(th_exit_state) 1
-set xth(th_exit_number) 1734803699
+set xth(th_exit_number) 1734805714
 
