@@ -80,7 +80,7 @@ S   616.11 byaki_05-320p@ ()
 ########## end of export maps & scraps selection ###############
 writing byaki_p_work.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  21 DEC 2024 20:28
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  21 DEC 2024 20:54
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -89,13 +89,12 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
  [1] [2] [3] [4]
 [5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
 [1]
-[Warning: scrap outline intersects itself in scrap byaki_05-320p]
 [Warning: scrap outline intersects itself in scrap byaki_05-320p] [2] [3] [4]
 [5] (./mptextmp.mp) [6] )
  
 Here is how much of MetaPost's memory you used:
- 15019 strings using 405106 characters
- 3506272 bytes of node memory
+ 14811 strings using 399754 characters
+ 3483912 bytes of node memory
  1687 symbolic tokens
  8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
 20 output files written: data-patt.1 .. data-patt.14
@@ -105,7 +104,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  21 DEC 2024 20:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  21 DEC 2024 20:54
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -117,14 +116,14 @@ rogram Files/Therion/texmf/fonts/pdftex.map})
 Here is how much of TeX's memory you used:
  278 strings out of 95671
  3887 string characters out of 1192323
- 46328 words of memory out of 1532371
+ 46336 words of memory out of 1532379
  1674 multiletter control sequences out of 15000+50000
  18931 words of font info for 60 fonts, out of 1000000 for 2000
  844 hyphenation exceptions out of 5000
  9i,5n,6p,229b,60s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/
 Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 61266 bytes).
+Output written on data.pdf (1 page, 60466 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
