@@ -745,18 +745,18 @@ line pit
 endline
 
 
-point 196.85 -236.22 station -name "351"
-point -174.04 -119.47 station -name "89"
-point -326.94 -276.13 station -name "90"
-point -410.27 -354.37 station -name "91"
-point -642.08 -114.30 station -name "350"
-point -496.92 -318.22 station -name "92"
-point -673.14 -564.17 station -name "93"
-point -698.63 -558.94 station -name "94"
-point -433.84 -660.03 station -name "95"
-point -292.41 -1059.67 station -name "96"
-point -710.13 -1314.47 station -name "97"
-point -102.02 -1496.33 station -name "98"
+# point 196.85 -236.22 station -name "351"
+# point -174.04 -119.47 station -name "89"
+# point -326.94 -276.13 station -name "90"
+# point -410.27 -354.37 station -name "91"
+# point -642.08 -114.30 station -name "350"
+# point -496.92 -318.22 station -name "92"
+# point -673.14 -564.17 station -name "93"
+# point -698.63 -558.94 station -name "94"
+# point -433.84 -660.03 station -name "95"
+# point -292.41 -1059.67 station -name "96"
+# point -710.13 -1314.47 station -name "97"
+# point -102.02 -1496.33 station -name "98"
 
 
 endscrap

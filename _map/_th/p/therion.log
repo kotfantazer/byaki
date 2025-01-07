@@ -123,10 +123,14 @@ selecting export objects ...
 C:\Program Files\Therion\therion.exe: warning -- p_work.thcfg [13] -- object not found -- "work_p"
 done
 processing projection plan ... done
-average distortion: 0.03%
+average distortion: 0.02%
 
 
 ############### export maps & scraps selection #################
+M     -.-- byaki_09-1p-p@ ()
+S     -.-- byaki_09-1p@ ()
+M     -.-- byaki_08-351p-p@ ()
+S     -.-- byaki_08-351p@ ()
 M     -.-- byaki_07-1p-p@ ()
 S     -.-- byaki_07-1p@ ()
 M     -.-- byaki_06-352p-p@ ()
@@ -134,9 +138,9 @@ S     -.-- byaki_06-352p@ ()
 M   616.11 byaki_05-320p-p@ (Могила Боцмана и Елка)
 S   616.11 byaki_05-320p@ ()
 ########## end of export maps & scraps selection ###############
-writing byaki_p_work.png ...
+writing byaki_p_work.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  7 JAN 2025 20:59
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  7 JAN 2025 21:09
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -144,16 +148,22 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 {randomseed:=42}
  [1] [2] [3] [4]
 [5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
-[1] [2] [3] [4] [5] [6] [7]
-[Warning: scrap outline intersects itself in scrap byaki_05-320p] [8] [9] [10]
-[11] (./mptextmp.mp) [12] )
+[Warning: scrap outline intersects itself in scrap byaki_09-1p] [1] [2] [3]
+[4]
+[Warning: scrap outline intersects itself in scrap byaki_08-351p]
+[Warning: scrap outline intersects itself in scrap byaki_08-351p]
+[Warning: scrap outline intersects itself in scrap byaki_08-351p]
+[Warning: scrap outline intersects itself in scrap byaki_08-351p] [5] [6] [7]
+[8] [9] [10] [11] [12] [13] [14]
+[Warning: scrap outline intersects itself in scrap byaki_05-320p] [15] [16]
+[17] [18] (./mptextmp.mp) [19] )
  
 Here is how much of MetaPost's memory you used:
- 29368 strings using 752355 characters
- 3582888 bytes of node memory
+ 48884 strings using 1250994 characters
+ 3585608 bytes of node memory
  1687 symbolic tokens
  8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
-26 output files written: data-patt.1 .. data-patt.14
+33 output files written: data-patt.1 .. data.19
 
 
 #################### end of metapost log file ####################
