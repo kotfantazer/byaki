@@ -138,9 +138,9 @@ S     -.-- byaki_06-352p@ ()
 M   616.11 byaki_05-320p-p@ (Могила Боцмана и Елка)
 S   616.11 byaki_05-320p@ ()
 ########## end of export maps & scraps selection ###############
-writing byaki_p_work.pdf ...
+writing byaki_p_work.svg ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  7 JAN 2025 21:19
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  7 JAN 2025 21:32
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -159,7 +159,7 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 [17] [18] (./mptextmp.mp) [19] )
  
 Here is how much of MetaPost's memory you used:
- 48930 strings using 1262417 characters
+ 48926 strings using 1258555 characters
  3585512 bytes of node memory
  1687 symbolic tokens
  8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
@@ -168,5 +168,102 @@ Here is how much of MetaPost's memory you used:
 
 #################### end of metapost log file ####################
 converting scraps ... done
-making map ... C:\Program Files\Therion\therion.exe: error -- Map is too large for PDF format. Try smaller scale!
+making svg map ... done
+done
+writing byaki_p_work.3d ... done
+
+
+############### export maps & scraps selection #################
+M     -.-- byaki_09-1p-p@ ()
+S     -.-- byaki_09-1p@ ()
+M     -.-- byaki_08-351p-p@ ()
+S     -.-- byaki_08-351p@ ()
+M     -.-- byaki_07-1p-p@ ()
+S     -.-- byaki_07-1p@ ()
+M     -.-- byaki_06-352p-p@ ()
+S     -.-- byaki_06-352p@ ()
+M   616.11 byaki_05-320p-p@ (Могила Боцмана и Елка)
+S   616.11 byaki_05-320p@ ()
+########## end of export maps & scraps selection ###############
+writing byaki_p_atlas.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  7 JAN 2025 21:32
+**data.mp
+(c:/Program Files/Therion/texmf/mpost/mpost.mp
+(c:/Program Files/Therion/texmf/mpost/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[Warning: scrap outline intersects itself in scrap byaki_09-1p] [1] [2] [3]
+[4]
+[Warning: scrap outline intersects itself in scrap byaki_08-351p]
+[Warning: scrap outline intersects itself in scrap byaki_08-351p]
+[Warning: scrap outline intersects itself in scrap byaki_08-351p]
+[Warning: scrap outline intersects itself in scrap byaki_08-351p] [5] [6] [7]
+[8] [9] [10] [11] [12] [13] [14]
+[Warning: scrap outline intersects itself in scrap byaki_05-320p] [15] [16]
+[17] [18] (./mptextmp.mp) [19] )
+ 
+Here is how much of MetaPost's memory you used:
+ 48926 strings using 1258555 characters
+ 3585512 bytes of node memory
+ 1687 symbolic tokens
+ 8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
+33 output files written: data-patt.1 .. data.19
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making atlas ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  7 JAN 2025 21:32
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files/Therion/texmf/tex/glyphtounicode.tex)) (./th_fontdef.tex{c:/P
+rogram Files/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex [1] [2] [3] [4] [5]
+[6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20])
+ 114 numeric registers used out of 32768
+ ) 
+Here is how much of TeX's memory you used:
+ 340 strings out of 95671
+ 4201 string characters out of 1192323
+ 47214 words of memory out of 1533257
+ 1718 multiletter control sequences out of 15000+50000
+ 18801 words of font info for 60 fonts, out of 1000000 for 2000
+ 844 hyphenation exceptions out of 5000
+ 8i,7n,6p,306b,48s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files/Therion/texmf/fonts/type1/cmcss10.pfb><c:/Program Files/The
+rion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/Therion/texmf/fonts/type1/c
+msy10.pfb>
+Output written on data.pdf (20 pages, 180434 bytes).
+PDF statistics:
+ 419 PDF objects out of 1000 (max. 8388607)
+ 299 compressed objects within 3 object streams
+ 20 named destinations out of 1000 (max. 500000)
+ 595 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
 writing xtherion file ... done
+compilation time: 2 sec
+
+
+######################### loop errors ##########################
+REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
+  1.06%    0.4m   37.8m  10    0.3m   -0.1m   -0.2m [140@byaki_09.byaki - 141 - 142 - 143 - 144 - 145 - 146 - 147 - 148 - 530 - 140]
+##################### end of loop errors #######################
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.04%    1.69%  byaki_05-320p@
+   0.00%    0.00%  byaki_06-352p@
+   0.00%    0.00%  byaki_07-1p@
+   0.00%    0.00%  byaki_08-351p@
+   0.00%    0.00%  byaki_09-1p@
+################### end of scrap distortions ###################
