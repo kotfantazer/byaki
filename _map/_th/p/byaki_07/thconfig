@@ -2,7 +2,7 @@ encoding  utf-8
 source ../../../../_cl/_th/byaki
 
  layout _local    
-  scale 1 100
+  # scale 1 100
   base-scale 1 90
   
   debug station-names 

@@ -8,6 +8,6 @@ source ../../../../_cl/_th/byaki
   debug station-names 
 endlayout
 
-select byaki_05-320p_p
+select byaki_08-351p_p
 
 export map -o p.pdf -proj plan -layout _local

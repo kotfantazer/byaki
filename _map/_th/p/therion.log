@@ -14,76 +14,86 @@ processing survey data ...
  1> Survex 1.4.8
  2> Copyright (C) 1990-2024 Olly Betts
  3> 
- 4> Survey contains 1150 survey stations, joined by 1149 shots.
+ 4> Survey contains 1557 survey stations, joined by 1556 shots.
  5> There are 0 loops.
- 6> Total length of survey shots =  774.89m ( 774.89m adjusted)
- 7> Total plan length of survey shots =  769.87m
- 8> Total vertical length of survey shots =   57.02m
+ 6> Total length of survey shots =  999.13m ( 999.13m adjusted)
+ 7> Total plan length of survey shots =  993.30m
+ 8> Total vertical length of survey shots =   71.28m
  9> Vertical range = 7.83m (from 74 at 621.13m to 397 at 613.30m)
 10> North-South range = 248.71m (from 1113 at 5077993.68m to 15 at 5077744.97m)
 11> East-West range = 268.09m (from 75 at 1482494.09m to 1 at 1482226.00m)
-12> 1028 1-nodes.
-13>   84 2-nodes.
+12> 1408 1-nodes.
+13>  102 2-nodes.
 14>    3 3-nodes.
 15>    1 6-node.
-16>    1 11-node.
-17>    1 13-node.
-18>    1 18-node.
-19>    3 19-nodes.
-20>    2 22-nodes.
-21>    1 23-node.
-22>    2 24-nodes.
-23>    2 25-nodes.
-24>    1 26-node.
-25>    2 27-nodes.
-26>    1 29-node.
-27>    1 30-node.
-28>    4 31-nodes.
-29>    2 33-nodes.
-30>    1 35-node.
-31>    1 37-node.
-32>    1 39-node.
-33>    1 41-node.
-34>    1 43-node.
-35>    1 47-node.
-36>    1 50-node.
-37>    1 53-node.
-38>    1 73-node.
-39>    1 76-node.
-40> 
+16>    1 8-node.
+17>    1 10-node.
+18>    1 11-node.
+19>    1 13-node.
+20>    1 18-node.
+21>    3 19-nodes.
+22>    2 22-nodes.
+23>    1 23-node.
+24>    3 24-nodes.
+25>    2 25-nodes.
+26>    1 26-node.
+27>    2 27-nodes.
+28>    1 28-node.
+29>    1 29-node.
+30>    1 30-node.
+31>    4 31-nodes.
+32>    2 33-nodes.
+33>    1 35-node.
+34>    1 37-node.
+35>    1 39-node.
+36>    1 41-node.
+37>    1 43-node.
+38>    2 47-nodes.
+39>    1 50-node.
+40>    1 53-node.
+41>    1 57-node.
+42>    3 73-nodes.
+43>    1 76-node.
+44>    1 78-node.
+45> 
 ######################### transcription ########################
- 4> 1150 : 351@byaki_07.byaki -- 1149 : .@byaki_07.byaki
+ 4> 1557 : 239@byaki_08.byaki -- 1556 : 107@byaki_08.byaki
  9> 74 : 43@byaki_03.byaki -- 397 : .@byaki_05.byaki
 10> 1113 : .@byaki_07.byaki -- 15 : 145@byaki_01.byaki
 11> 75 : 289@byaki_03.byaki -- 1 : 0@byaki_01.byaki
-12> 1028 : .@byaki_06.byaki
-13> 84 : 297@byaki_04.byaki
+12> 1408 : .@byaki_08.byaki
+13> 102 : .@byaki_05.byaki
 14> 3 : 2@byaki_01.byaki
 15> 1 : 0@byaki_01.byaki
 16> 1 : 0@byaki_01.byaki
 17> 1 : 0@byaki_01.byaki
 18> 1 : 0@byaki_01.byaki
-19> 3 : 2@byaki_01.byaki
-20> 2 : 1@byaki_01.byaki
-21> 1 : 0@byaki_01.byaki
+19> 1 : 0@byaki_01.byaki
+20> 1 : 0@byaki_01.byaki
+21> 3 : 2@byaki_01.byaki
 22> 2 : 1@byaki_01.byaki
-23> 2 : 1@byaki_01.byaki
-24> 1 : 0@byaki_01.byaki
+23> 1 : 0@byaki_01.byaki
+24> 3 : 2@byaki_01.byaki
 25> 2 : 1@byaki_01.byaki
 26> 1 : 0@byaki_01.byaki
-27> 1 : 0@byaki_01.byaki
-28> 4 : 3@byaki_01.byaki
-29> 2 : 1@byaki_01.byaki
+27> 2 : 1@byaki_01.byaki
+28> 1 : 0@byaki_01.byaki
+29> 1 : 0@byaki_01.byaki
 30> 1 : 0@byaki_01.byaki
-31> 1 : 0@byaki_01.byaki
-32> 1 : 0@byaki_01.byaki
+31> 4 : 3@byaki_01.byaki
+32> 2 : 1@byaki_01.byaki
 33> 1 : 0@byaki_01.byaki
 34> 1 : 0@byaki_01.byaki
 35> 1 : 0@byaki_01.byaki
 36> 1 : 0@byaki_01.byaki
 37> 1 : 0@byaki_01.byaki
-38> 1 : 0@byaki_01.byaki
+38> 2 : 1@byaki_01.byaki
 39> 1 : 0@byaki_01.byaki
+40> 1 : 0@byaki_01.byaki
+41> 1 : 0@byaki_01.byaki
+42> 3 : 2@byaki_01.byaki
+43> 1 : 0@byaki_01.byaki
+44> 1 : 0@byaki_01.byaki
 #################### end of cavern log file ####################
 done
 calculating basic statistics ... done
@@ -106,7 +116,7 @@ S   616.11 byaki_05-320p@ ()
 ########## end of export maps & scraps selection ###############
 writing byaki_p_work.png ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  7 JAN 2025 20:49
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  7 JAN 2025 20:55
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -119,8 +129,8 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 [11] (./mptextmp.mp) [12] )
  
 Here is how much of MetaPost's memory you used:
- 29403 strings using 759878 characters
- 3582792 bytes of node memory
+ 29368 strings using 752355 characters
+ 3582888 bytes of node memory
  1687 symbolic tokens
  8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
 26 output files written: data-patt.1 .. data-patt.14
