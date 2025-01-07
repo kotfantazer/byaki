@@ -5,7 +5,7 @@ encoding utf-8
 
 # 2025.01.07 created by TopoDroid v. 6.2.65
 
-scrap byaki_07-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
+scrap byaki_07-1p -projection plan -station-names [] @byaki_07.byaki -scale [0 0 39.3701 0 0 0 1 0 m]
 
 line wall
   -277.15 -253.67
