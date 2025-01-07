@@ -9,111 +9,113 @@ preprocessing database ... done
 scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
-average loop error: 1.06%
+average loop error: 0.74%
 processing survey data ... 
 ####################### cavern log file ########################
  1> Survex 1.4.8
  2> Copyright (C) 1990-2024 Olly Betts
  3> 
- 4> Survey contains 2435 survey stations, joined by 2435 shots.
- 5> There is 1 loop.
- 6> Total length of survey shots = 1236.17m (1236.12m adjusted)
+ 4> Survey contains 2435 survey stations, joined by 2436 shots.
+ 5> There are 2 loops.
+ 6> Total length of survey shots = 1236.17m (1236.14m adjusted)
  7> Total plan length of survey shots = 1223.10m
  8> Total vertical length of survey shots =  101.18m
- 9> Vertical range = 18.52m (from 2074 at 631.83m to 397 at 613.30m)
-10> North-South range = 248.71m (from 1113 at 5077993.68m to 15 at 5077744.97m)
+ 9> Vertical range = 18.44m (from 2074 at 631.83m to 397 at 613.39m)
+10> North-South range = 247.22m (from 1113 at 5077992.19m to 15 at 5077744.97m)
 11> East-West range = 384.21m (from 1960 at 1482610.21m to 1 at 1482226.00m)
-12> 2231 1-nodes.
-13>  126 2-nodes.
-14>    7 3-nodes.
-15>    1 6-node.
-16>    1 8-node.
-17>    1 9-node.
-18>    2 10-nodes.
-19>    2 11-nodes.
-20>    1 12-node.
-21>    1 13-node.
-22>    1 14-node.
-23>    1 18-node.
-24>    4 19-nodes.
-25>    2 22-nodes.
-26>    1 23-node.
-27>    4 24-nodes.
-28>    2 25-nodes.
-29>    2 26-nodes.
-30>    3 27-nodes.
-31>    2 28-nodes.
-32>    2 29-nodes.
-33>    1 30-node.
-34>    4 31-nodes.
-35>    2 33-nodes.
-36>    1 34-node.
-37>    2 35-nodes.
-38>    1 36-node.
-39>    2 37-nodes.
-40>    3 38-nodes.
-41>    2 39-nodes.
-42>    2 41-nodes.
-43>    2 42-nodes.
-44>    2 43-nodes.
-45>    3 47-nodes.
-46>    2 50-nodes.
-47>    1 51-node.
-48>    1 53-node.
-49>    1 55-node.
-50>    1 57-node.
-51>    3 73-nodes.
-52>    1 76-node.
-53>    1 78-node.
-54> 
+12> 2230 1-nodes.
+13>  127 2-nodes.
+14>    6 3-nodes.
+15>    1 4-node.
+16>    1 6-node.
+17>    1 8-node.
+18>    1 9-node.
+19>    2 10-nodes.
+20>    2 11-nodes.
+21>    1 12-node.
+22>    1 13-node.
+23>    1 14-node.
+24>    1 18-node.
+25>    4 19-nodes.
+26>    2 22-nodes.
+27>    1 23-node.
+28>    4 24-nodes.
+29>    2 25-nodes.
+30>    2 26-nodes.
+31>    3 27-nodes.
+32>    2 28-nodes.
+33>    2 29-nodes.
+34>    1 30-node.
+35>    4 31-nodes.
+36>    2 33-nodes.
+37>    1 34-node.
+38>    2 35-nodes.
+39>    1 36-node.
+40>    2 37-nodes.
+41>    3 38-nodes.
+42>    2 39-nodes.
+43>    2 41-nodes.
+44>    2 42-nodes.
+45>    2 43-nodes.
+46>    3 47-nodes.
+47>    2 50-nodes.
+48>    1 51-node.
+49>    1 53-node.
+50>    1 55-node.
+51>    1 57-node.
+52>    3 73-nodes.
+53>    1 76-node.
+54>    1 78-node.
+55> 
 ######################### transcription ########################
- 4> 2435 : .@byaki_09.byaki -- 2435 : .@byaki_09.byaki
- 5> 1 : 0@byaki_01.byaki
+ 4> 2435 : .@byaki_09.byaki
+ 5> 2 : 1@byaki_01.byaki
  9> 2074 : .@byaki_09.byaki -- 397 : .@byaki_05.byaki
 10> 1113 : .@byaki_07.byaki -- 15 : 145@byaki_01.byaki
 11> 1960 : .@byaki_09.byaki -- 1 : 0@byaki_01.byaki
-12> 2231 : .@byaki_09.byaki
-13> 126 : .@byaki_05.byaki
-14> 7 : 6@byaki_01.byaki
+12> 2230 : .@byaki_09.byaki
+13> 127 : .@byaki_05.byaki
+14> 6 : 5@byaki_01.byaki
 15> 1 : 0@byaki_01.byaki
 16> 1 : 0@byaki_01.byaki
 17> 1 : 0@byaki_01.byaki
-18> 2 : 1@byaki_01.byaki
+18> 1 : 0@byaki_01.byaki
 19> 2 : 1@byaki_01.byaki
-20> 1 : 0@byaki_01.byaki
+20> 2 : 1@byaki_01.byaki
 21> 1 : 0@byaki_01.byaki
 22> 1 : 0@byaki_01.byaki
 23> 1 : 0@byaki_01.byaki
-24> 4 : 3@byaki_01.byaki
-25> 2 : 1@byaki_01.byaki
-26> 1 : 0@byaki_01.byaki
-27> 4 : 3@byaki_01.byaki
-28> 2 : 1@byaki_01.byaki
+24> 1 : 0@byaki_01.byaki
+25> 4 : 3@byaki_01.byaki
+26> 2 : 1@byaki_01.byaki
+27> 1 : 0@byaki_01.byaki
+28> 4 : 3@byaki_01.byaki
 29> 2 : 1@byaki_01.byaki
-30> 3 : 2@byaki_01.byaki
-31> 2 : 1@byaki_01.byaki
+30> 2 : 1@byaki_01.byaki
+31> 3 : 2@byaki_01.byaki
 32> 2 : 1@byaki_01.byaki
-33> 1 : 0@byaki_01.byaki
-34> 4 : 3@byaki_01.byaki
-35> 2 : 1@byaki_01.byaki
-36> 1 : 0@byaki_01.byaki
-37> 2 : 1@byaki_01.byaki
-38> 1 : 0@byaki_01.byaki
-39> 2 : 1@byaki_01.byaki
-40> 3 : 2@byaki_01.byaki
-41> 2 : 1@byaki_01.byaki
+33> 2 : 1@byaki_01.byaki
+34> 1 : 0@byaki_01.byaki
+35> 4 : 3@byaki_01.byaki
+36> 2 : 1@byaki_01.byaki
+37> 1 : 0@byaki_01.byaki
+38> 2 : 1@byaki_01.byaki
+39> 1 : 0@byaki_01.byaki
+40> 2 : 1@byaki_01.byaki
+41> 3 : 2@byaki_01.byaki
 42> 2 : 1@byaki_01.byaki
 43> 2 : 1@byaki_01.byaki
 44> 2 : 1@byaki_01.byaki
-45> 3 : 2@byaki_01.byaki
-46> 2 : 1@byaki_01.byaki
-47> 1 : 0@byaki_01.byaki
+45> 2 : 1@byaki_01.byaki
+46> 3 : 2@byaki_01.byaki
+47> 2 : 1@byaki_01.byaki
 48> 1 : 0@byaki_01.byaki
 49> 1 : 0@byaki_01.byaki
 50> 1 : 0@byaki_01.byaki
-51> 3 : 2@byaki_01.byaki
-52> 1 : 0@byaki_01.byaki
+51> 1 : 0@byaki_01.byaki
+52> 3 : 2@byaki_01.byaki
 53> 1 : 0@byaki_01.byaki
+54> 1 : 0@byaki_01.byaki
 #################### end of cavern log file ####################
 done
 calculating basic statistics ... done
@@ -130,7 +132,7 @@ S     -.-- @ ()
 ########## end of export maps & scraps selection ###############
 writing p.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  7 JAN 2025 21:06
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  8 JAN 2025 00:32
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -141,8 +143,8 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 [1] [2] [3] (./mptextmp.mp) [4] )
  
 Here is how much of MetaPost's memory you used:
- 22861 strings using 788773 characters
- 3991168 bytes of node memory
+ 22753 strings using 786206 characters
+ 3992088 bytes of node memory
  1684 symbolic tokens
  8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
 18 output files written: data-patt.1 .. data-patt.14
@@ -152,7 +154,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  7 JAN 2025 21:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  8 JAN 2025 00:32
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -164,7 +166,7 @@ rogram Files/Therion/texmf/fonts/pdftex.map})
 Here is how much of TeX's memory you used:
  274 strings out of 95671
  3837 string characters out of 1192323
- 272291 words of memory out of 1732334
+ 271941 words of memory out of 1731984
  1670 multiletter control sequences out of 15000+50000
  18931 words of font info for 60 fonts, out of 1000000 for 2000
  844 hyphenation exceptions out of 5000
@@ -172,7 +174,7 @@ Here is how much of TeX's memory you used:
 <c:/Program Files/Therion/texmf/fonts/type1/cmcss10.pfb><c:/Program Files
 /Therion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/Therion/texmf/fonts/typ
 e1/cmssi10.pfb>
-Output written on data.pdf (1 page, 100902 bytes).
+Output written on data.pdf (1 page, 100908 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
@@ -183,10 +185,11 @@ PDF statistics:
 ##################### end of pdftex log file #####################
 done
 writing xtherion file ... done
-compilation time: 2 sec
+compilation time: 1 sec
 
 
 ######################### loop errors ##########################
 REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
   1.06%    0.4m   37.8m  10    0.3m   -0.1m   -0.2m [140@byaki_09.byaki - 141 - 142 - 143 - 144 - 145 - 146 - 147 - 148 - 530 - 140]
+  0.68%    3.3m  479.8m  60    1.8m    2.7m   -0.2m [239@byaki_08.byaki - 107 - 106 - 293 - 105 - 104 - 103 - 325 - 102 - 324 - 101 - 323 - 100 - 99 - 98 - 320 - 97 - 96 - 95 - 92 - 91 - 90 - 89 - 351 = 351@byaki_07.byaki - 88 - 87 - 86 - 85 = 85@byaki_06.byaki - 84 - 81 - 77 - 73 - 72 - 71 - 352 = 352@byaki_05.byaki - 67 - 66 - 65 - 62 - 61 - 60 - 58 - 56 - 53 - 52 - 320 = 320@byaki_04.byaki - 321 - 51 - 50 - 299 - 49 - 298 - 48 - 297 - 47 - 293 - 46 - 45 - 291 - 44 - 239 = 239@byaki_08.byaki]
 ##################### end of loop errors #######################
