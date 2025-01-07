@@ -1,0 +1,13 @@
+encoding  utf-8
+source ../../../../_cl/_th/byaki
+
+ layout _local    
+  scale 1 100
+  base-scale 1 90
+  
+  debug station-names 
+endlayout
+
+select byaki_05-320p_p
+
+export map -o p.pdf -proj plan -layout _local

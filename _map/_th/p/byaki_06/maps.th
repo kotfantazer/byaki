@@ -1,0 +1,7 @@
+encoding  utf-8
+input byaki_06-352p.th2
+
+map byaki_06-352p-p -proj plan -title ""
+  byaki_06-352p
+endmap
+
