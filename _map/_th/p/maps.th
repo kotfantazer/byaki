@@ -4,3 +4,13 @@ input byaki_06/maps
 input byaki_07/maps
 input byaki_08/maps
 input byaki_09/maps
+
+
+# Соединение скрапов
+join byaki_05-320p byaki_06-352p
+
+# join i1:0 i2:0
+
+# join byaki_06-352p byaki_07-1p
+# join byaki_07-1p byaki_08-351p
+# join byaki_08-351p byaki_09-1p
