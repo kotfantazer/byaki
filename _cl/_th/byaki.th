@@ -24,5 +24,8 @@ survey byaki -title "Гурьевские каменоломни"
     input byaki_06.th
         equate 352@byaki_05 352@byaki_06
 
+    input byaki_07.th
+        equate 85@byaki_06 85@byaki_07
+
 endsurvey
 
