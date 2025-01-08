@@ -635,7 +635,7 @@ line wall
   519.82 100.12
 endline
 
-line wall
+line wall -id i01
   1421.57 832.13
   1408.16 830.83
   1394.46 825.08

@@ -10,7 +10,7 @@ encoding  utf-8
 
 scrap byaki_06-352p -projection plan -station-names [] @byaki_06.byaki -scale [0 0 39.3701 0 0 0 1 0 m]
 
-line wall
+line wall -id i01
   269.17 -79.69
   257.5 -86.5
   249.93 -88.63
