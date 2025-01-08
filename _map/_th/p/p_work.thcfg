@@ -3,7 +3,7 @@ source ../../../_cl/_th/byaki
 source maps
 
 layout _local
-  #base-scale 1 100
+  base-scale 1 100
   
   debug station-names
   debug scrap-names

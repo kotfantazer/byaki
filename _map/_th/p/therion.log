@@ -125,7 +125,7 @@ selecting export objects ...
 C:\Program Files\Therion\therion.exe: warning -- p_work.thcfg [13] -- object not found -- "work_p"
 done
 processing projection plan ... done
-average distortion: 42.65%
+average distortion: 46.18%
 
 
 ############### export maps & scraps selection #################
@@ -143,4 +143,4 @@ S   616.19 byaki_05-320p@ ()
 writing byaki_p_work.svg ...
 C:\Program Files\Therion\therion.exe: error -- scrap byaki_05-320p@ defined at byaki_05/p.th2 [11] is too large to process in metapost in this scale -- maximal scale for this scrap is 1 : 878774
 writing xtherion file ... done
-C:\Program Files\Therion\therion.exe: warning -- error deleting temporary directory -- filesystem error: cannot remove all: The process cannot access the file because it is being used by another process [C:\Users\kot\AppData\Local\Temp\th15888] [C:\Users\kot\AppData\Local\Temp\th15888\data.mp]
+C:\Program Files\Therion\therion.exe: warning -- error deleting temporary directory -- filesystem error: cannot remove all: The process cannot access the file because it is being used by another process [C:\Users\kot\AppData\Local\Temp\th19164] [C:\Users\kot\AppData\Local\Temp\th19164\data.mp]
