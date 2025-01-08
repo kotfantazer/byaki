@@ -3,6 +3,10 @@
 survey byaki_01 -title "byaki 01"
 
   centerline
+
+    cs lat-long
+    fix 0 54.397509 38.198548 160
+
     date 2024.12.15 
     team "Горшков"
     team "Жданова" 

@@ -2,7 +2,6 @@ encoding  utf-8
 survey byaki -title "Гурьевские каменоломни"
   centerline
     mark fixed
-    fix 0@byaki_01 1482226 5077758 619
     date 2024
     data nosurvey from to
   endcenterline

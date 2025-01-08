@@ -1,0 +1,9 @@
+therion 6.1.6 (2023-01-11)
+  - using Proj 9.1.1, compiled against 9.1.1
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig_surface
+reading ... done
+reading source files ... 
+C:\Program Files (x86)\Therion\therion.exe: error -- surface.th [18] -- grid dimensions not specified
+writing xtherion file ... done
