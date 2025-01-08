@@ -1,0 +1,5 @@
+encoding  utf-8
+source ../../_cl/_th/byaki
+
+export database -o ../byaki.sql
+export database -o ../byaki.csv
