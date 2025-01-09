@@ -130,29 +130,30 @@ processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
 processing projection plan ... done
-average distortion: 0.21%
+average distortion: 0.43%
 
 
 ############### export maps & scraps selection #################
-M   237.36 work_p@ (Гурьевские каменоломни)
-M   157.19 p@ (Гурьевские каменоломни)
+M   243.56 work_p@ (Гурьевские каменоломни)
+M   159.15 p@ (Гурьевские каменоломни)
 S   157.19 byaki_05-320p@ ()
-S     -.-- byaki_07-1p@ ()
-S     -.-- byaki_08-351p@ ()
-S     -.-- byaki_09-1p@ ()
-S   316.03 @ ()
-S   317.38 @ ()
-S   319.64 @ ()
-S   317.62 @ ()
-S   315.03 @ ()
-S   316.06 @ ()
-S   315.99 @ ()
-S   317.06 @ ()
-S   323.01 @ ()
+S   158.13 byaki_06-352p@ ()
+S   158.01 byaki_07-1p@ ()
+S   157.64 byaki_08-351p@ ()
+S   164.76 byaki_09-1p@ ()
+S   326.46 @ ()
+S   327.81 @ ()
+S   330.07 @ ()
+S   328.06 @ ()
+S   325.46 @ ()
+S   326.50 @ ()
+S   326.41 @ ()
+S   327.49 @ ()
+S   333.44 @ ()
 ########## end of export maps & scraps selection ###############
 writing byaki_p_work.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  10 JAN 2025 00:44
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  10 JAN 2025 00:51
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -160,24 +161,221 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 {randomseed:=42}
  [1] [2] [3] [4]
 [5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
-[Warning: scrap outline intersects itself in scrap byaki_09-1p] [1] [2] [3]
-[4]
-[Warning: scrap outline intersects itself in scrap byaki_08-351p]
-[Warning: scrap outline intersects itself in scrap byaki_08-351p] [5] [6] [7]
-[8] [9] [10] [11]
-[Warning: scrap outline intersects itself in scrap byaki_05-320p] [12] [13]
-[14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
-[29] [30] [31] [32] [33] (./mptextmp.mp) [34] )
+[1]
+[Warning: scrap outline intersects itself in scrap byaki_09-1p] [2] [3] [4]
+[5]
+[Warning: scrap outline intersects itself in scrap byaki_08-351p] [6] [7] [8]
+[9] [10] [11] [12] [13] [14] [15] [16] [17]
+[Warning: scrap outline intersects itself in scrap byaki_05-320p] [18] [19]
+[20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]
+[35] [36] [37] [38] [39] (./mptextmp.mp) [40] )
  
 Here is how much of MetaPost's memory you used:
- 58584 strings using 1660301 characters
- 3694104 bytes of node memory
+ 76229 strings using 2149687 characters
+ 3758376 bytes of node memory
  1687 symbolic tokens
  8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
-48 output files written: data-patt.1 .. data.34
+54 output files written: data-patt.1 .. data.40
 
 
 #################### end of metapost log file ####################
 converting scraps ... done
-making map ... C:\Program Files\Therion\therion.exe: error -- Map is too large for PDF format. Try smaller scale!
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  10 JAN 2025 00:51
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files/Therion/texmf/tex/glyphtounicode.tex)) (./th_fontdef.tex{c:/P
+rogram Files/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 112 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 335 strings out of 95671
+ 4573 string characters out of 1192323
+ 141097 words of memory out of 1621140
+ 1731 multiletter control sequences out of 15000+50000
+ 20080 words of font info for 63 fonts, out of 1000000 for 2000
+ 844 hyphenation exceptions out of 5000
+ 9i,5n,6p,229b,60s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files/Therion/texmf/fonts/type1/cmcss10.pfb><c:/Program Files
+/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/Therion/texmf/fonts/typ
+e1/cmssi10.pfb>
+Output written on data.pdf (1 page, 477246 bytes).
+PDF statistics:
+ 183 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 487 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+
+
+############### export maps & scraps selection #################
+M   243.56 work_p@ (Гурьевские каменоломни)
+M   159.15 p@ (Гурьевские каменоломни)
+S   157.19 byaki_05-320p@ ()
+S   158.13 byaki_06-352p@ ()
+S   158.01 byaki_07-1p@ ()
+S   157.64 byaki_08-351p@ ()
+S   164.76 byaki_09-1p@ ()
+S   326.46 @ ()
+S   327.81 @ ()
+S   330.07 @ ()
+S   328.06 @ ()
+S   325.46 @ ()
+S   326.50 @ ()
+S   326.41 @ ()
+S   327.49 @ ()
+S   333.44 @ ()
+########## end of export maps & scraps selection ###############
+writing byaki_p_work.svg ...
+####################### metapost log file ########################
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  10 JAN 2025 00:51
+**data.mp
+(c:/Program Files/Therion/texmf/mpost/mpost.mp
+(c:/Program Files/Therion/texmf/mpost/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[1]
+[Warning: scrap outline intersects itself in scrap byaki_09-1p] [2] [3] [4]
+[5]
+[Warning: scrap outline intersects itself in scrap byaki_08-351p] [6] [7] [8]
+[9] [10] [11] [12] [13] [14] [15] [16] [17]
+[Warning: scrap outline intersects itself in scrap byaki_05-320p] [18] [19]
+[20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]
+[35] [36] [37] [38] [39] (./mptextmp.mp) [40] )
+ 
+Here is how much of MetaPost's memory you used:
+ 76229 strings using 2149687 characters
+ 3758376 bytes of node memory
+ 1687 symbolic tokens
+ 8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
+54 output files written: data-patt.1 .. data.40
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making svg map ... done
+done
+writing byaki_p_work.3d ... done
+
+
+############### export maps & scraps selection #################
+M   243.56 work_p@ (Гурьевские каменоломни)
+M   159.15 p@ (Гурьевские каменоломни)
+S   157.19 byaki_05-320p@ ()
+S   158.13 byaki_06-352p@ ()
+S   158.01 byaki_07-1p@ ()
+S   157.64 byaki_08-351p@ ()
+S   164.76 byaki_09-1p@ ()
+S   326.46 @ ()
+S   327.81 @ ()
+S   330.07 @ ()
+S   328.06 @ ()
+S   325.46 @ ()
+S   326.50 @ ()
+S   326.41 @ ()
+S   327.49 @ ()
+S   333.44 @ ()
+########## end of export maps & scraps selection ###############
+writing byaki_p_atlas.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  10 JAN 2025 00:51
+**data.mp
+(c:/Program Files/Therion/texmf/mpost/mpost.mp
+(c:/Program Files/Therion/texmf/mpost/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[1]
+[Warning: scrap outline intersects itself in scrap byaki_09-1p] [2] [3] [4]
+[5]
+[Warning: scrap outline intersects itself in scrap byaki_08-351p] [6] [7] [8]
+[9] [10] [11] [12] [13] [14] [15] [16] [17]
+[Warning: scrap outline intersects itself in scrap byaki_05-320p] [18] [19]
+[20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]
+[35] [36] [37] [38] [39] (./mptextmp.mp) [40] )
+ 
+Here is how much of MetaPost's memory you used:
+ 76229 strings using 2149687 characters
+ 3758376 bytes of node memory
+ 1687 symbolic tokens
+ 8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
+54 output files written: data-patt.1 .. data.40
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making atlas ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  10 JAN 2025 00:51
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files/Therion/texmf/tex/glyphtounicode.tex)) (./th_fontdef.tex{c:/P
+rogram Files/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex [1] [2] [3] [4] [5]
+[6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
+[22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36]
+[37] [38])
+ 186 numeric registers used out of 32768
+ ) 
+Here is how much of TeX's memory you used:
+ 430 strings out of 95671
+ 4827 string characters out of 1192323
+ 87887 words of memory out of 1567930
+ 1790 multiletter control sequences out of 15000+50000
+ 18801 words of font info for 60 fonts, out of 1000000 for 2000
+ 844 hyphenation exceptions out of 5000
+ 8i,7n,6p,320b,48s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files/Therion/texmf/fonts/type1/cmcss10.pfb><c:/Program Files/The
+rion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/Therion/texmf/fonts/type1/c
+msy10.pfb>
+Output written on data.pdf (38 pages, 714721 bytes).
+PDF statistics:
+ 1200 PDF objects out of 1200 (max. 8388607)
+ 934 compressed objects within 10 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 1289 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
 writing xtherion file ... done
+compilation time: 6 sec
+
+
+######################### loop errors ##########################
+REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
+  1.06%    0.4m   37.8m  10    0.3m   -0.1m   -0.2m [140@byaki_09.byaki - 141 - 142 - 143 - 144 - 145 - 146 - 147 - 148 - 530 - 140]
+  0.68%    3.3m  479.8m  60    2.4m    2.2m   -0.2m [239@byaki_08.byaki - 107 - 106 - 293 - 105 - 104 - 103 - 325 - 102 - 324 - 101 - 323 - 100 - 99 - 98 - 320 - 97 - 96 - 95 - 92 - 91 - 90 - 89 - 351 = 351@byaki_07.byaki - 88 - 87 - 86 - 85 = 85@byaki_06.byaki - 84 - 81 - 77 - 73 - 72 - 71 - 352 = 352@byaki_05.byaki - 67 - 66 - 65 - 62 - 61 - 60 - 58 - 56 - 53 - 52 - 320 = 320@byaki_04.byaki - 321 - 51 - 50 - 299 - 49 - 298 - 48 - 297 - 47 - 293 - 46 - 45 - 291 - 44 - 239 = 239@byaki_08.byaki]
+##################### end of loop errors #######################
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.52%   32.24%  byaki_09-1p@
+   0.46%   20.41%  byaki_05-320p@
+   0.41%    5.27%  byaki_06-352p@
+   0.34%    3.28%  byaki_08-351p@
+   0.15%    1.51%  byaki_07-1p@
+################### end of scrap distortions ###################
+
+############# CRS transformations chosen by PROJ ###############
+  Area of Use (AoU): (38.199, 54.398) (38.199, 54.398)
+  [LAT-LONG → LAT-LONG] AoU: [no] transformation: [axis order change (2D) + Null geographic offset from WGS 84 to WGS 84 + axis order change (2D)] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
+  [LAT-LONG → LAT-LONG] AoU: [yes] transformation: [axis order change (2D) + Null geographic offset from WGS 84 to WGS 84 + axis order change (2D)] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
+  [LAT-LONG → UTM37] AoU: [yes] transformation: [axis order change (2D) + UTM zone 37N] definition: [proj=pipeline step proj=unitconvert xy_in=deg xy_out=rad step proj=utm zone=37 ellps=WGS84] accuracy: [0.000 m]
+  [LAT-LONG → EPSG:4326] AoU: [yes] transformation: [axis order change (2D) + Null geographic offset from WGS 84 to WGS 84 + axis order change (2D)] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
+  [UTM37 → LONG-LAT] AoU: [yes] transformation: [Inverse of UTM zone 37N + axis order change (2D)] definition: [proj=pipeline step inv proj=utm zone=37 ellps=WGS84 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [0.000 m]
+  [UTM37 → EPSG:4326] AoU: [yes] transformation: [Inverse of UTM zone 37N + axis order change (2D)] definition: [proj=pipeline step inv proj=utm zone=37 ellps=WGS84 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [0.000 m]
+  [EPSG:4326 → UTM37] AoU: [yes] transformation: [axis order change (2D) + UTM zone 37N] definition: [proj=pipeline step proj=unitconvert xy_in=deg xy_out=rad step proj=utm zone=37 ellps=WGS84] accuracy: [0.000 m]
+########## end of CRS transformations chosen by PROJ ###########

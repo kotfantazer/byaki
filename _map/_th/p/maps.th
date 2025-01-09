@@ -31,7 +31,7 @@ endmap
 ### Карта
 map p -title "Гурьевские каменоломни"
     byaki_05-320p
-    # byaki_06-352p
+    byaki_06-352p
     byaki_07-1p
     byaki_08-351p
     byaki_09-1p

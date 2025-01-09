@@ -182,10 +182,10 @@ line wall
   -46.5 -102.75
 endline
 
-# point 196.85 -236.22 station -name "86"
-# point 332.60 -338.40 station -name "85"
-# point 109.58 -377.82 station -name "87"
-# point -102.74 -401.46 station -name "88"
+point 196.85 -236.22 station -name "86"
+point 332.60 -338.40 station -name "85"
+point 109.58 -377.82 station -name "87"
+point -102.74 -401.46 station -name "88"
 
 
 endscrap
