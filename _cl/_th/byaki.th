@@ -30,6 +30,7 @@ survey byaki -title "Гурьевские каменоломни"
         equate 351@byaki_07 351@byaki_08
         equate 239@byaki_02 239@byaki_08
         equate 320@byaki_04 320@byaki_08
+        equate 293@byaki_04 293@byaki_08
 
     input byaki_09.th
         equate 289@byaki_03 289@byaki_09
