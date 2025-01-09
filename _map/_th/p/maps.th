@@ -1,9 +1,9 @@
 encoding  utf-8
 input byaki_05/maps
 input byaki_06/maps
-input byaki_07/maps
-input byaki_08/maps
-input byaki_09/maps
+# input byaki_07/maps
+# input byaki_08/maps
+# input byaki_09/maps
 
 
 # Соединение скрапов
@@ -13,3 +13,52 @@ join i01:0 i02:26
 # join byaki_06-352p byaki_07-1p
 # join byaki_07-1p byaki_08-351p
 # join byaki_08-351p byaki_09-1p
+
+
+### Нитка хода
+map cl -proj plan
+    byaki_01.byaki
+    byaki_02.byaki
+    byaki_03.byaki
+    byaki_04.byaki
+    byaki_05.byaki
+    byaki_06.byaki
+    byaki_07.byaki
+    byaki_08.byaki
+    byaki_09.byaki
+endmap
+
+### Карта
+map p -title "Гурьевские каменоломни"
+    byaki_05-320p
+    byaki_06-352p
+
+#   g2_3_p   # Входная часть
+#   g4_2_p   # Первый колодец и его обход
+#   g4_1_p   # Вход + первый колодец до Санктума
+#   g1_2_p   # Полка из Санктума
+#   g5_2_p   # Восток, юго-восток от Санктума
+#   g1_1_p   # Санктум - Булыжная мостовая - Пляж
+#   g2_1_2_p
+#   g2_1_1_p
+#   g2_1_p
+# # g3_1_p
+#   g2_2_3_p
+#   g5_1_p
+#   g8_2_p
+#   g8_1_p
+#   g12_1_p
+# #  g9_1_p
+#   g11_1_p
+#   zazer_p
+#   g9_1_p1
+#   g9_1_p2 [ 8 -10 m] below
+#   g11_2_p
+#   g15_2_p
+endmap
+
+map work_p -proj plan -title "Гурьевские каменоломни"
+  p
+  break
+  cl
+endmap

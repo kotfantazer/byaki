@@ -6,10 +6,17 @@ configuration file: p_work.thcfg
 reading ... done
 reading source files ... done
 preprocessing database ... done
+C:\Program Files\Therion\therion.exe: warning -- magnetic declination calculated for dates outside of optimal model range (1900 - 2024)
+output coordinate system: UTM37
+meridian convergence (deg): 0.6517
+geomag declinations (deg):
+  2024.1.1  11.4227
+  2025.1.1  11.5481
+  2026.1.1  11.6737
 scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
-average loop error: 0.74%
+average loop error: 0.73%
 processing survey data ... 
 ####################### cavern log file ########################
  1> Survex 1.4.8
@@ -20,9 +27,9 @@ processing survey data ...
  6> Total length of survey shots = 1236.17m (1236.14m adjusted)
  7> Total plan length of survey shots = 1223.10m
  8> Total vertical length of survey shots =  101.18m
- 9> Vertical range = 18.44m (from 2074 at 631.83m to 397 at 613.39m)
-10> North-South range = 247.22m (from 1113 at 5077992.19m to 15 at 5077744.97m)
-11> East-West range = 384.21m (from 1960 at 1482610.21m to 1 at 1482226.00m)
+ 9> Vertical range = 18.44m (from 2074 at 172.83m to 397 at 154.39m)
+10> North-South range = 216.29m (from 1113 at 6028234.86m to 15 at 6028018.57m)
+11> East-West range = 391.99m (from 1713 at 448359.49m to 1 at 447967.50m)
 12> 2230 1-nodes.
 13>  127 2-nodes.
 14>    6 3-nodes.
@@ -72,7 +79,7 @@ processing survey data ...
  5> 2 : 1@byaki_01.byaki
  9> 2074 : .@byaki_09.byaki -- 397 : .@byaki_05.byaki
 10> 1113 : .@byaki_07.byaki -- 15 : 145@byaki_01.byaki
-11> 1960 : .@byaki_09.byaki -- 1 : 0@byaki_01.byaki
+11> 1713 : .@byaki_09.byaki -- 1 : 0@byaki_01.byaki
 12> 2230 : .@byaki_09.byaki
 13> 127 : .@byaki_05.byaki
 14> 6 : 5@byaki_01.byaki
@@ -121,26 +128,27 @@ done
 calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
-selecting export objects ... 
-C:\Program Files\Therion\therion.exe: warning -- p_work.thcfg [13] -- object not found -- "work_p"
-done
+selecting export objects ... done
 processing projection plan ... done
-average distortion: 46.18%
+average distortion: 73.46%
 
 
 ############### export maps & scraps selection #################
-M     -.-- byaki_09-1p-p@ ()
-S     -.-- byaki_09-1p@ ()
-M     -.-- byaki_08-351p-p@ ()
-S     -.-- byaki_08-351p@ ()
-M     -.-- byaki_07-1p-p@ ()
-S     -.-- byaki_07-1p@ ()
-M     -.-- byaki_06-352p-p@ ()
+M   237.36 work_p@ (Гурьевские каменоломни)
+M   157.19 p@ (Гурьевские каменоломни)
+S   157.19 byaki_05-320p@ ()
 S     -.-- byaki_06-352p@ ()
-M   616.19 byaki_05-320p-p@ (Могила Боцмана и Елка)
-S   616.19 byaki_05-320p@ ()
+S   316.03 @ ()
+S   317.38 @ ()
+S   319.64 @ ()
+S   317.62 @ ()
+S   315.03 @ ()
+S   316.06 @ ()
+S   315.99 @ ()
+S   317.06 @ ()
+S   323.01 @ ()
 ########## end of export maps & scraps selection ###############
 writing byaki_p_work.svg ...
-C:\Program Files\Therion\therion.exe: error -- scrap byaki_05-320p@ defined at byaki_05/p.th2 [11] is too large to process in metapost in this scale -- maximal scale for this scrap is 1 : 878774
+C:\Program Files\Therion\therion.exe: error -- scrap byaki_05-320p@ defined at byaki_05/p.th2 [11] is too large to process in metapost in this scale -- maximal scale for this scrap is 1 : 1044032
 writing xtherion file ... done
-C:\Program Files\Therion\therion.exe: warning -- error deleting temporary directory -- filesystem error: cannot remove all: The process cannot access the file because it is being used by another process [C:\Users\kot\AppData\Local\Temp\th19164] [C:\Users\kot\AppData\Local\Temp\th19164\data.mp]
+C:\Program Files\Therion\therion.exe: warning -- error deleting temporary directory -- filesystem error: cannot remove all: The process cannot access the file because it is being used by another process [C:\Users\kot\AppData\Local\Temp\th35084] [C:\Users\kot\AppData\Local\Temp\th35084\data.mp]
