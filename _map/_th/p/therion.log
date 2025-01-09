@@ -130,14 +130,16 @@ processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
 processing projection plan ... done
-average distortion: 73.46%
+average distortion: 0.21%
 
 
 ############### export maps & scraps selection #################
 M   237.36 work_p@ (Гурьевские каменоломни)
 M   157.19 p@ (Гурьевские каменоломни)
 S   157.19 byaki_05-320p@ ()
-S     -.-- byaki_06-352p@ ()
+S     -.-- byaki_07-1p@ ()
+S     -.-- byaki_08-351p@ ()
+S     -.-- byaki_09-1p@ ()
 S   316.03 @ ()
 S   317.38 @ ()
 S   319.64 @ ()
@@ -148,7 +150,34 @@ S   315.99 @ ()
 S   317.06 @ ()
 S   323.01 @ ()
 ########## end of export maps & scraps selection ###############
-writing byaki_p_work.svg ...
-C:\Program Files\Therion\therion.exe: error -- scrap byaki_05-320p@ defined at byaki_05/p.th2 [11] is too large to process in metapost in this scale -- maximal scale for this scrap is 1 : 1044032
+writing byaki_p_work.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  10 JAN 2025 00:44
+**data.mp
+(c:/Program Files/Therion/texmf/mpost/mpost.mp
+(c:/Program Files/Therion/texmf/mpost/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[Warning: scrap outline intersects itself in scrap byaki_09-1p] [1] [2] [3]
+[4]
+[Warning: scrap outline intersects itself in scrap byaki_08-351p]
+[Warning: scrap outline intersects itself in scrap byaki_08-351p] [5] [6] [7]
+[8] [9] [10] [11]
+[Warning: scrap outline intersects itself in scrap byaki_05-320p] [12] [13]
+[14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
+[29] [30] [31] [32] [33] (./mptextmp.mp) [34] )
+ 
+Here is how much of MetaPost's memory you used:
+ 58584 strings using 1660301 characters
+ 3694104 bytes of node memory
+ 1687 symbolic tokens
+ 8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
+48 output files written: data-patt.1 .. data.34
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... C:\Program Files\Therion\therion.exe: error -- Map is too large for PDF format. Try smaller scale!
 writing xtherion file ... done
-C:\Program Files\Therion\therion.exe: warning -- error deleting temporary directory -- filesystem error: cannot remove all: The process cannot access the file because it is being used by another process [C:\Users\kot\AppData\Local\Temp\th35084] [C:\Users\kot\AppData\Local\Temp\th35084\data.mp]
