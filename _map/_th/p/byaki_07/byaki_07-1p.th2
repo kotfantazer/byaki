@@ -1,6 +1,6 @@
 encoding  utf-8
 ##XTHERION## xth_me_area_adjust -488.1 -791.6 452.7 83.4
-##XTHERION## xth_me_area_zoom_to 200
+##XTHERION## xth_me_area_zoom_to 100
 ##XTHERION## xth_me_image_insert {196.85000000000002 1 1.0} {-236.22000000000003 86} byaki_07-1p.xvi 0 {}
 
 # 2025.01.07 created by TopoDroid v. 6.2.65
@@ -32,25 +32,6 @@ line wall
   -130.91 -467.11
   -135.28 -486.13
   -138.82 -503.47
-endline
-
-line wall
-  109.25 -379.75
-  135.5 -367.75
-  151.67 -360.68
-  171.13 -367.76
-  184.23 -376.26
-  195.61 -368.42
-  207.98 -356.05
-  225.28 -347.23
-  242.59 -344.4
-  258.19 -344.4
-  274.13 -345.82
-  291.18 -344.02
-  308.88 -338.74
-  325.17 -333.39
-  341.03 -329.54
-  352.71 -326.7
 endline
 
 line wall
@@ -183,10 +164,12 @@ line wall
 endline
 
 point 196.85 -236.22 station -name "86"
-point 332.60 -338.40 station -name "85"
-point 109.58 -377.82 station -name "87"
-point -102.74 -401.46 station -name "88"
 
+point 332.60 -338.40 station -name "85"
+
+point 109.58 -377.82 station -name "87"
+
+point -102.74 -401.46 station -name "88"
 
 endscrap
 
