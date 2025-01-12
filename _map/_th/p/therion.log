@@ -16,25 +16,23 @@ geomag declinations (deg):
 scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
-average loop error: 1.10%
+average loop error: 1.19%
 processing survey data ... 
-C:\Program Files\Therion\therion.exe: warning -- temporary directory already exists
-
 ####################### cavern log file ########################
  1> Survex 1.4.8
  2> Copyright (C) 1990-2024 Olly Betts
  3> 
- 4> Survey contains 2435 survey stations, joined by 2438 shots.
- 5> There are 4 loops.
- 6> Total length of survey shots = 1236.17m (1236.18m adjusted)
+ 4> Survey contains 2435 survey stations, joined by 2439 shots.
+ 5> There are 5 loops.
+ 6> Total length of survey shots = 1236.17m (1236.15m adjusted)
  7> Total plan length of survey shots = 1223.10m
  8> Total vertical length of survey shots =  101.18m
- 9> Vertical range = 18.46m (from 2074 at 172.83m to 397 at 154.36m)
+ 9> Vertical range = 18.36m (from 2074 at 172.83m to 397 at 154.47m)
 10> North-South range = 216.71m (from 1113 at 6028235.28m to 15 at 6028018.57m)
 11> East-West range = 391.99m (from 1713 at 448359.49m to 1 at 447967.50m)
 12> 2230 1-nodes.
-13>  124 2-nodes.
-14>    8 3-nodes.
+13>  123 2-nodes.
+14>    9 3-nodes.
 15>    2 4-nodes.
 16>    1 6-node.
 17>    1 8-node.
@@ -73,18 +71,18 @@ C:\Program Files\Therion\therion.exe: warning -- temporary directory already exi
 50>    1 55-node.
 51>    1 57-node.
 52>    3 73-nodes.
-53>    1 76-node.
+53>    1 77-node.
 54>    1 78-node.
 55> 
 ######################### transcription ########################
  4> 2435 : .@byaki_09.byaki
- 5> 4 : 3@byaki_01.byaki
+ 5> 5 : 4@byaki_01.byaki
  9> 2074 : .@byaki_09.byaki -- 397 : .@byaki_05.byaki
 10> 1113 : .@byaki_07.byaki -- 15 : 145@byaki_01.byaki
 11> 1713 : .@byaki_09.byaki -- 1 : 0@byaki_01.byaki
 12> 2230 : .@byaki_09.byaki
-13> 124 : .@byaki_05.byaki
-14> 8 : 7@byaki_01.byaki
+13> 123 : .@byaki_05.byaki
+14> 9 : 8@byaki_01.byaki
 15> 2 : 1@byaki_01.byaki
 16> 1 : 0@byaki_01.byaki
 17> 1 : 0@byaki_01.byaki
@@ -132,30 +130,30 @@ processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
 processing projection plan ... done
-average distortion: 0.74%
+average distortion: 1.12%
 
 
 ############### export maps & scraps selection #################
-M   243.55 work_p@ (Гурьевские каменоломни)
-M   159.14 p@ (Гурьевские каменоломни)
-S   157.17 byaki_05-320p@ ()
-S   158.12 byaki_06-352p@ ()
-S   158.01 byaki_07-1p@ ()
-S   157.64 byaki_08-351p@ ()
+M   243.56 work_p@ (Гурьевские каменоломни)
+M   159.15 p@ (Гурьевские каменоломни)
+S   157.24 byaki_05-320p@ ()
+S   158.15 byaki_06-352p@ ()
+S   158.00 byaki_07-1p@ ()
+S   157.59 byaki_08-351p@ ()
 S   164.76 byaki_09-1p@ ()
 S   326.46 @ ()
 S   327.81 @ ()
 S   330.07 @ ()
 S   328.07 @ ()
-S   325.43 @ ()
-S   326.48 @ ()
-S   326.41 @ ()
-S   327.50 @ ()
+S   325.49 @ ()
+S   326.50 @ ()
+S   326.40 @ ()
+S   327.48 @ ()
 S   333.44 @ ()
 ########## end of export maps & scraps selection ###############
 writing byaki_p_work.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  10 JAN 2025 01:52
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  12 JAN 2025 18:08
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -167,16 +165,14 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 [Warning: scrap outline intersects itself in scrap byaki_09-1p] [2] [3] [4]
 [5]
 [Warning: scrap outline intersects itself in scrap byaki_08-351p] [6] [7] [8]
-[9] [10] [11] [12] [13]
-[Warning: scrap outline intersects itself in scrap byaki_06-352p] [14] [15]
-[16] [17]
+[9] [10] [11] [12] [13] [14] [15] [16] [17]
 [Warning: scrap outline intersects itself in scrap byaki_05-320p] [18] [19]
 [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]
 [35] [36] [37] [38] [39] (./mptextmp.mp) [40] )
  
 Here is how much of MetaPost's memory you used:
- 73276 strings using 2065813 characters
- 3758568 bytes of node memory
+ 73248 strings using 2068051 characters
+ 3758952 bytes of node memory
  1687 symbolic tokens
  8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
 54 output files written: data-patt.1 .. data.40
@@ -186,7 +182,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  10 JAN 2025 01:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  12 JAN 2025 18:08
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -198,7 +194,7 @@ rogram Files/Therion/texmf/fonts/pdftex.map})
 Here is how much of TeX's memory you used:
  335 strings out of 95671
  4573 string characters out of 1192323
- 141111 words of memory out of 1621154
+ 141112 words of memory out of 1621155
  1731 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  844 hyphenation exceptions out of 5000
@@ -206,7 +202,7 @@ Here is how much of TeX's memory you used:
 <c:/Program Files/Therion/texmf/fonts/type1/cmcss10.pfb><c:/Program Files
 /Therion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/Therion/texmf/fonts/typ
 e1/cmssi10.pfb>
-Output written on data.pdf (1 page, 464792 bytes).
+Output written on data.pdf (1 page, 464882 bytes).
 PDF statistics:
  183 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream
@@ -219,26 +215,26 @@ done
 
 
 ############### export maps & scraps selection #################
-M   243.55 work_p@ (Гурьевские каменоломни)
-M   159.14 p@ (Гурьевские каменоломни)
-S   157.17 byaki_05-320p@ ()
-S   158.12 byaki_06-352p@ ()
-S   158.01 byaki_07-1p@ ()
-S   157.64 byaki_08-351p@ ()
+M   243.56 work_p@ (Гурьевские каменоломни)
+M   159.15 p@ (Гурьевские каменоломни)
+S   157.24 byaki_05-320p@ ()
+S   158.15 byaki_06-352p@ ()
+S   158.00 byaki_07-1p@ ()
+S   157.59 byaki_08-351p@ ()
 S   164.76 byaki_09-1p@ ()
 S   326.46 @ ()
 S   327.81 @ ()
 S   330.07 @ ()
 S   328.07 @ ()
-S   325.43 @ ()
-S   326.48 @ ()
-S   326.41 @ ()
-S   327.50 @ ()
+S   325.49 @ ()
+S   326.50 @ ()
+S   326.40 @ ()
+S   327.48 @ ()
 S   333.44 @ ()
 ########## end of export maps & scraps selection ###############
 writing byaki_p_work.svg ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  10 JAN 2025 01:52
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  12 JAN 2025 18:08
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -250,16 +246,14 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 [Warning: scrap outline intersects itself in scrap byaki_09-1p] [2] [3] [4]
 [5]
 [Warning: scrap outline intersects itself in scrap byaki_08-351p] [6] [7] [8]
-[9] [10] [11] [12] [13]
-[Warning: scrap outline intersects itself in scrap byaki_06-352p] [14] [15]
-[16] [17]
+[9] [10] [11] [12] [13] [14] [15] [16] [17]
 [Warning: scrap outline intersects itself in scrap byaki_05-320p] [18] [19]
 [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]
 [35] [36] [37] [38] [39] (./mptextmp.mp) [40] )
  
 Here is how much of MetaPost's memory you used:
- 73276 strings using 2065813 characters
- 3758568 bytes of node memory
+ 73248 strings using 2068051 characters
+ 3758952 bytes of node memory
  1687 symbolic tokens
  8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
 54 output files written: data-patt.1 .. data.40
@@ -273,26 +267,26 @@ writing byaki_p_work.3d ... done
 
 
 ############### export maps & scraps selection #################
-M   243.55 work_p@ (Гурьевские каменоломни)
-M   159.14 p@ (Гурьевские каменоломни)
-S   157.17 byaki_05-320p@ ()
-S   158.12 byaki_06-352p@ ()
-S   158.01 byaki_07-1p@ ()
-S   157.64 byaki_08-351p@ ()
+M   243.56 work_p@ (Гурьевские каменоломни)
+M   159.15 p@ (Гурьевские каменоломни)
+S   157.24 byaki_05-320p@ ()
+S   158.15 byaki_06-352p@ ()
+S   158.00 byaki_07-1p@ ()
+S   157.59 byaki_08-351p@ ()
 S   164.76 byaki_09-1p@ ()
 S   326.46 @ ()
 S   327.81 @ ()
 S   330.07 @ ()
 S   328.07 @ ()
-S   325.43 @ ()
-S   326.48 @ ()
-S   326.41 @ ()
-S   327.50 @ ()
+S   325.49 @ ()
+S   326.50 @ ()
+S   326.40 @ ()
+S   327.48 @ ()
 S   333.44 @ ()
 ########## end of export maps & scraps selection ###############
 writing byaki_p_atlas.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  10 JAN 2025 01:52
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  12 JAN 2025 18:08
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -304,16 +298,14 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 [Warning: scrap outline intersects itself in scrap byaki_09-1p] [2] [3] [4]
 [5]
 [Warning: scrap outline intersects itself in scrap byaki_08-351p] [6] [7] [8]
-[9] [10] [11] [12] [13]
-[Warning: scrap outline intersects itself in scrap byaki_06-352p] [14] [15]
-[16] [17]
+[9] [10] [11] [12] [13] [14] [15] [16] [17]
 [Warning: scrap outline intersects itself in scrap byaki_05-320p] [18] [19]
 [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]
 [35] [36] [37] [38] [39] (./mptextmp.mp) [40] )
  
 Here is how much of MetaPost's memory you used:
- 73276 strings using 2065813 characters
- 3758568 bytes of node memory
+ 73248 strings using 2068051 characters
+ 3758952 bytes of node memory
  1687 symbolic tokens
  8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
 54 output files written: data-patt.1 .. data.40
@@ -323,7 +315,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making atlas ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  10 JAN 2025 01:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  12 JAN 2025 18:08
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -346,7 +338,7 @@ Here is how much of TeX's memory you used:
 <c:/Program Files/Therion/texmf/fonts/type1/cmcss10.pfb><c:/Program Files/The
 rion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/Therion/texmf/fonts/type1/c
 msy10.pfb>
-Output written on data.pdf (39 pages, 735793 bytes).
+Output written on data.pdf (39 pages, 740709 bytes).
 PDF statistics:
  1260 PDF objects out of 1440 (max. 8388607)
  985 compressed objects within 10 object streams
@@ -357,7 +349,7 @@ PDF statistics:
 ##################### end of pdftex log file #####################
 done
 writing xtherion file ... done
-compilation time: 6 sec
+compilation time: 7 sec
 
 
 ######################### loop errors ##########################
@@ -365,18 +357,19 @@ REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
   1.67%    1.1m   67.0m   8    0.9m   -0.1m   -0.7m [239@byaki_08.byaki - 107 - 106 - 293 = 293@byaki_04.byaki - 46 - 45 - 291 - 44 - 239 = 239@byaki_08.byaki]
   1.38%    2.8m  206.0m  22   -0.0m    2.8m    0.6m [293@byaki_08.byaki - 105 - 104 - 103 - 325 - 102 - 324 - 101 - 323 - 100 - 99 - 98 - 320 = 320@byaki_04.byaki - 321 - 51 - 50 - 299 - 49 - 298 - 48 - 297 - 47 - 293 = 293@byaki_08.byaki]
   1.06%    0.4m   37.8m  10    0.3m   -0.1m   -0.2m [140@byaki_09.byaki - 141 - 142 - 143 - 144 - 145 - 146 - 147 - 148 - 530 - 140]
-  0.76%    1.6m  206.8m  30    1.5m   -0.5m   -0.1m [320@byaki_08.byaki - 97 - 96 - 95 - 92 - 91 - 90 - 89 - 351 = 351@byaki_07.byaki - 88 - 87 - 86 - 85 = 85@byaki_06.byaki - 84 - 81 - 77 - 73 - 72 - 71 - 352 = 352@byaki_05.byaki - 67 - 66 - 65 - 62 - 61 - 60 - 58 - 56 - 53 - 52 - 320 = 320@byaki_08.byaki]
+  1.01%    1.6m  156.7m  25    1.6m   -0.2m    0.1m [96@byaki_08.byaki - 95 - 92 - 91 - 90 - 89 - 351 = 351@byaki_07.byaki - 88 - 87 - 86 - 85 = 85@byaki_06.byaki - 84 - 81 - 77 - 73 - 72 - 71 - 352 = 352@byaki_05.byaki - 67 - 66 - 65 - 62 - 61 - 60 - 58 - 56 = 96@byaki_08.byaki]
+  0.73%    0.4m   50.1m   5   -0.1m   -0.2m   -0.3m [320@byaki_08.byaki - 97 - 96 = 56@byaki_05.byaki - 53 - 52 - 320 = 320@byaki_08.byaki]
 ##################### end of loop errors #######################
 
 
 ###################### scrap distortions #######################
  PROJECTION: plan
  AVERAGE  MAXIMAL  SCRAP
-   0.84%   91.35%  byaki_05-320p@
-   1.29%   51.73%  byaki_06-352p@
+   0.96%   91.32%  byaki_05-320p@
+   1.60%   78.81%  byaki_06-352p@
+   3.97%   65.34%  byaki_07-1p@
+   1.28%   64.97%  byaki_08-351p@
    0.52%   32.24%  byaki_09-1p@
-   0.30%    4.97%  byaki_08-351p@
-   0.14%    0.54%  byaki_07-1p@
 ################### end of scrap distortions ###################
 
 ############# CRS transformations chosen by PROJ ###############
