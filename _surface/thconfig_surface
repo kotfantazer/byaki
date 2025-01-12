@@ -1,0 +1,10 @@
+encoding  utf-8
+source
+  surface 
+    cs lat-long
+    bitmap "surface.png" [0 3449 55:52.2254 92:4.2245 4305 0 55:47.2373 92:15.3095]
+    input surface
+  endsurface
+endsource
+
+export model -o surface_with_cave.lox

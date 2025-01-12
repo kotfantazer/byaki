@@ -6,10 +6,17 @@ configuration file: thconfig
 reading ... done
 reading source files ... done
 preprocessing database ... done
+C:\Program Files\Therion\therion.exe: warning -- magnetic declination calculated for dates outside of optimal model range (1900 - 2024)
+output coordinate system: UTM37
+meridian convergence (deg): 0.6517
+geomag declinations (deg):
+  2024.1.1  11.4227
+  2025.1.1  11.5481
+  2026.1.1  11.6737
 scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
-average loop error: 0.74%
+average loop error: 0.73%
 processing survey data ... 
 ####################### cavern log file ########################
  1> Survex 1.4.8
@@ -20,9 +27,9 @@ processing survey data ...
  6> Total length of survey shots = 1236.17m (1236.14m adjusted)
  7> Total plan length of survey shots = 1223.10m
  8> Total vertical length of survey shots =  101.18m
- 9> Vertical range = 18.44m (from 2074 at 631.83m to 397 at 613.39m)
-10> North-South range = 247.22m (from 1113 at 5077992.19m to 15 at 5077744.97m)
-11> East-West range = 384.21m (from 1960 at 1482610.21m to 1 at 1482226.00m)
+ 9> Vertical range = 18.44m (from 2074 at 172.83m to 397 at 154.39m)
+10> North-South range = 216.29m (from 1113 at 6028234.86m to 15 at 6028018.57m)
+11> East-West range = 391.99m (from 1713 at 448359.49m to 1 at 447967.50m)
 12> 2230 1-nodes.
 13>  127 2-nodes.
 14>    6 3-nodes.
@@ -72,7 +79,7 @@ processing survey data ...
  5> 2 : 1@byaki_01.byaki
  9> 2074 : .@byaki_09.byaki -- 397 : .@byaki_05.byaki
 10> 1113 : .@byaki_07.byaki -- 15 : 145@byaki_01.byaki
-11> 1960 : .@byaki_09.byaki -- 1 : 0@byaki_01.byaki
+11> 1713 : .@byaki_09.byaki -- 1 : 0@byaki_01.byaki
 12> 2230 : .@byaki_09.byaki
 13> 127 : .@byaki_05.byaki
 14> 6 : 5@byaki_01.byaki
@@ -128,13 +135,24 @@ processing projection plan ... done
  done
 writing ../byaki.plt ... done
 writing ../byaki.dxf ... done
-C:\Program Files\Therion\therion.exe: warning -- data not georeferenced -- unable to export KML file
+writing ../byaki.kml ... done
 writing xtherion file ... done
-compilation time: 0 sec
+compilation time: 1 sec
 
 
 ######################### loop errors ##########################
 REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
   1.06%    0.4m   37.8m  10    0.3m   -0.1m   -0.2m [140@byaki_09.byaki - 141 - 142 - 143 - 144 - 145 - 146 - 147 - 148 - 530 - 140]
-  0.68%    3.3m  479.8m  60    1.8m    2.7m   -0.2m [239@byaki_08.byaki - 107 - 106 - 293 - 105 - 104 - 103 - 325 - 102 - 324 - 101 - 323 - 100 - 99 - 98 - 320 - 97 - 96 - 95 - 92 - 91 - 90 - 89 - 351 = 351@byaki_07.byaki - 88 - 87 - 86 - 85 = 85@byaki_06.byaki - 84 - 81 - 77 - 73 - 72 - 71 - 352 = 352@byaki_05.byaki - 67 - 66 - 65 - 62 - 61 - 60 - 58 - 56 - 53 - 52 - 320 = 320@byaki_04.byaki - 321 - 51 - 50 - 299 - 49 - 298 - 48 - 297 - 47 - 293 - 46 - 45 - 291 - 44 - 239 = 239@byaki_08.byaki]
+  0.68%    3.3m  479.8m  60    2.4m    2.2m   -0.2m [239@byaki_08.byaki - 107 - 106 - 293 - 105 - 104 - 103 - 325 - 102 - 324 - 101 - 323 - 100 - 99 - 98 - 320 - 97 - 96 - 95 - 92 - 91 - 90 - 89 - 351 = 351@byaki_07.byaki - 88 - 87 - 86 - 85 = 85@byaki_06.byaki - 84 - 81 - 77 - 73 - 72 - 71 - 352 = 352@byaki_05.byaki - 67 - 66 - 65 - 62 - 61 - 60 - 58 - 56 - 53 - 52 - 320 = 320@byaki_04.byaki - 321 - 51 - 50 - 299 - 49 - 298 - 48 - 297 - 47 - 293 - 46 - 45 - 291 - 44 - 239 = 239@byaki_08.byaki]
 ##################### end of loop errors #######################
+
+############# CRS transformations chosen by PROJ ###############
+  Area of Use (AoU): (38.199, 54.398) (38.199, 54.398)
+  [LAT-LONG → LAT-LONG] AoU: [no] transformation: [axis order change (2D) + Null geographic offset from WGS 84 to WGS 84 + axis order change (2D)] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
+  [LAT-LONG → LAT-LONG] AoU: [yes] transformation: [axis order change (2D) + Null geographic offset from WGS 84 to WGS 84 + axis order change (2D)] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
+  [LAT-LONG → UTM37] AoU: [yes] transformation: [axis order change (2D) + UTM zone 37N] definition: [proj=pipeline step proj=unitconvert xy_in=deg xy_out=rad step proj=utm zone=37 ellps=WGS84] accuracy: [0.000 m]
+  [LAT-LONG → EPSG:4326] AoU: [yes] transformation: [axis order change (2D) + Null geographic offset from WGS 84 to WGS 84 + axis order change (2D)] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
+  [UTM37 → LONG-LAT] AoU: [yes] transformation: [Inverse of UTM zone 37N + axis order change (2D)] definition: [proj=pipeline step inv proj=utm zone=37 ellps=WGS84 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [0.000 m]
+  [UTM37 → EPSG:4326] AoU: [yes] transformation: [Inverse of UTM zone 37N + axis order change (2D)] definition: [proj=pipeline step inv proj=utm zone=37 ellps=WGS84 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [0.000 m]
+  [EPSG:4326 → UTM37] AoU: [yes] transformation: [axis order change (2D) + UTM zone 37N] definition: [proj=pipeline step proj=unitconvert xy_in=deg xy_out=rad step proj=utm zone=37 ellps=WGS84] accuracy: [0.000 m]
+########## end of CRS transformations chosen by PROJ ###########

@@ -2,7 +2,6 @@ encoding  utf-8
 survey byaki -title "Гурьевские каменоломни"
   centerline
     mark fixed
-    fix 0@byaki_01 1482226 5077758 619
     date 2024
     data nosurvey from to
   endcenterline
@@ -30,6 +29,9 @@ survey byaki -title "Гурьевские каменоломни"
     input byaki_08.th
         equate 351@byaki_07 351@byaki_08
         equate 239@byaki_02 239@byaki_08
+        equate 320@byaki_04 320@byaki_08
+        equate 293@byaki_04 293@byaki_08
+        equate 56@byaki_05 96@byaki_08
 
     input byaki_09.th
         equate 289@byaki_03 289@byaki_09

@@ -1,0 +1,15 @@
+encoding  utf-8
+# 2023.03.22 created by TopoDroid v 5.1.40
+
+source "surface.th"
+
+# layout topodroid
+#   legend on
+#   symbol-hide group centerline
+#   symbol-show point station
+#   debug station-names
+# endlayout
+
+export model -o ./surface.3d
+export model -o ./surface.lox
+export model -o ./surface.plt
