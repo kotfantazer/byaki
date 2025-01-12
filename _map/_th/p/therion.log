@@ -153,7 +153,7 @@ S   333.44 @ ()
 ########## end of export maps & scraps selection ###############
 writing byaki_p_work.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  12 JAN 2025 19:56
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  12 JAN 2025 20:18
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -171,7 +171,7 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 [35] [36] [37] [38] [39] (./mptextmp.mp) [40] )
  
 Here is how much of MetaPost's memory you used:
- 72082 strings using 2032657 characters
+ 72096 strings using 2033863 characters
  3758952 bytes of node memory
  1687 symbolic tokens
  8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
@@ -182,7 +182,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  12 JAN 2025 19:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  12 JAN 2025 20:18
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -194,7 +194,7 @@ rogram Files/Therion/texmf/fonts/pdftex.map})
 Here is how much of TeX's memory you used:
  335 strings out of 95671
  4573 string characters out of 1192323
- 141161 words of memory out of 1621204
+ 141085 words of memory out of 1621128
  1731 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  844 hyphenation exceptions out of 5000
@@ -202,7 +202,7 @@ Here is how much of TeX's memory you used:
 <c:/Program Files/Therion/texmf/fonts/type1/cmcss10.pfb><c:/Program Files
 /Therion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/Therion/texmf/fonts/typ
 e1/cmssi10.pfb>
-Output written on data.pdf (1 page, 459680 bytes).
+Output written on data.pdf (1 page, 459948 bytes).
 PDF statistics:
  183 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream
@@ -234,7 +234,7 @@ S   333.44 @ ()
 ########## end of export maps & scraps selection ###############
 writing byaki_p_work.svg ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  12 JAN 2025 19:56
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  12 JAN 2025 20:18
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -252,7 +252,7 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 [35] [36] [37] [38] [39] (./mptextmp.mp) [40] )
  
 Here is how much of MetaPost's memory you used:
- 72082 strings using 2032657 characters
+ 72096 strings using 2033863 characters
  3758952 bytes of node memory
  1687 symbolic tokens
  8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
@@ -286,7 +286,7 @@ S   333.44 @ ()
 ########## end of export maps & scraps selection ###############
 writing byaki_p_atlas.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  12 JAN 2025 19:56
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  12 JAN 2025 20:18
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -304,7 +304,7 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 [35] [36] [37] [38] [39] (./mptextmp.mp) [40] )
  
 Here is how much of MetaPost's memory you used:
- 72082 strings using 2032657 characters
+ 72096 strings using 2033863 characters
  3758952 bytes of node memory
  1687 symbolic tokens
  8i,82n,16p,312b,5f stack positions out of 16i,98n,20p,312b,6f
@@ -315,7 +315,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making atlas ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  12 JAN 2025 19:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  12 JAN 2025 20:18
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -338,7 +338,7 @@ Here is how much of TeX's memory you used:
 <c:/Program Files/Therion/texmf/fonts/type1/cmcss10.pfb><c:/Program Files/The
 rion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/Therion/texmf/fonts/type1/c
 msy10.pfb>
-Output written on data.pdf (39 pages, 726794 bytes).
+Output written on data.pdf (39 pages, 726528 bytes).
 PDF statistics:
  1260 PDF objects out of 1440 (max. 8388607)
  985 compressed objects within 10 object streams
@@ -366,9 +366,9 @@ REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
  PROJECTION: plan
  AVERAGE  MAXIMAL  SCRAP
    0.98%   91.32%  byaki_05-320p@
+   5.39%   78.87%  byaki_07-1p@
    1.53%   78.81%  byaki_06-352p@
-   3.97%   65.34%  byaki_07-1p@
-   1.31%   64.94%  byaki_08-351p@
+   0.96%   47.40%  byaki_08-351p@
    0.52%   32.24%  byaki_09-1p@
 ################### end of scrap distortions ###################
 

@@ -16,13 +16,13 @@ xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
 xth_cp_map_tree_insert map 1 637X1 p1 1 byaki_05-320p-p byaki_05-320p-p "Могила Боцмана и Елка" "\_\_\_\_\_\_ \_\_\_\_\_\_\_ \_ \_\_\_\_"
 xth_cp_map_tree_insert map 1 705X1 p1 1 byaki_06-352p-p byaki_06-352p-p "" ""
 xth_cp_map_tree_insert map 1 725X1 p1 1 byaki_07-1p-p byaki_07-1p-p "" ""
-xth_cp_map_tree_insert map 1 794X1 p1 1 byaki_08-351p-p byaki_08-351p-p "" ""
-xth_cp_map_tree_insert map 1 881X1 p1 1 byaki_09-1p-p byaki_09-1p-p "" ""
-xth_cp_map_tree_insert map 0 888X1 p1 1 work_p work_p "Гурьевские каменоломни" "\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_"
-xth_cp_map_tree_insert map 1 887X1 888X1 2 p p "Гурьевские каменоломни" "\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_"
-xth_cp_map_tree_insert map 0 886X1 888X1 2 cl cl "" ""
+xth_cp_map_tree_insert map 1 795X1 p1 1 byaki_08-351p-p byaki_08-351p-p "" ""
+xth_cp_map_tree_insert map 1 882X1 p1 1 byaki_09-1p-p byaki_09-1p-p "" ""
+xth_cp_map_tree_insert map 0 889X1 p1 1 work_p work_p "Гурьевские каменоломни" "\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_"
+xth_cp_map_tree_insert map 1 888X1 889X1 2 p p "Гурьевские каменоломни" "\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_"
+xth_cp_map_tree_insert map 0 887X1 889X1 2 cl cl "" ""
 xth_cp_map_tree_create
 xth_cp_comp_stat 1236 5
 set xth(th_exit_state) 1
-set xth(th_exit_number) 1736701016
+set xth(th_exit_number) 1736702289
 
