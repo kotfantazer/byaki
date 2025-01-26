@@ -1,0 +1,62 @@
+# 2025.01.25 created by TopoDroid v 6.2.65
+
+survey byaki_11 -title "byaki 11"
+
+  centerline
+    date 2025.01.25 
+    team "Горшков" 
+    team "Факел"
+    team "Зверев"
+    units length meters
+    units compass clino degrees
+    data normal from to length compass clino
+    13 14 13.27 266.0 1.1
+   flags duplicate
+    14 13 13.26 84.8 -0.9
+   flags not duplicate
+    14 15 10.21 267.2 -4.4
+   flags duplicate
+    15 14 10.21 87.4 4.4
+   flags not duplicate
+    extend right
+    15 16 1.48 278.3 -0.1
+    extend left
+   flags duplicate
+    16 15 14.38 269.0 -1.2
+   flags not duplicate
+    extend vertical
+    13 16 30.55 269.7 -0.7
+    16 13 30.56 91.8 1.1
+    extend left
+    12 13 8.18 249.6 -2.8
+    extend right
+   flags duplicate
+    13 12 8.17 71.6 2.8
+   flags not duplicate
+    extend vertical
+    14 12 4.25 81.2 1.4
+    extend left
+   flags duplicate
+    12 14 21.23 258.9 -0.9
+   flags not duplicate
+  endcenterline
+
+  # input "byaki_11-13p.th2"
+  # input "byaki_11-14p.th2"
+  # input "byaki_11-15p.th2"
+  # input "byaki_11-16p.th2"
+
+  # map m13p -projection plan
+  #   byaki_11-13p
+  # endmap
+  # map m14p -projection plan
+  #   byaki_11-14p
+  # endmap
+  # map m15p -projection plan
+  #   byaki_11-15p
+  # endmap
+  # map m16p -projection plan
+  #   byaki_11-16p
+  # endmap
+
+endsurvey
