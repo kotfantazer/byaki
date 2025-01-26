@@ -28,6 +28,10 @@ map cl -proj plan
     byaki_07.byaki
     byaki_08.byaki
     byaki_09.byaki
+    byaki_10.byaki
+    # byaki_11.byaki
+    byaki_12.byaki
+    byaki_13.byaki
 endmap
 
 ### Карта
