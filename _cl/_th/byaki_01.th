@@ -5,7 +5,7 @@ survey byaki_01 -title "byaki 01"
   centerline
 
     cs lat-long
-    fix 0 54.397509 38.198548 160
+    fix 0old 54.397509 38.198548 160
 
     date 2024.12.15 
     team "Горшков"
@@ -14,7 +14,7 @@ survey byaki_01 -title "byaki 01"
     units compass clino degrees
     data normal from to length compass clino
     extend left
-    0 1 4.25 111.4 -2.3
+    0old 1 4.25 111.4 -2.3
     extend right
     1 2 5.33 354.2 0.4
     extend vertical
