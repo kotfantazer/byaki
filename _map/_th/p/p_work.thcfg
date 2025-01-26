@@ -4,7 +4,8 @@ source maps
 
 layout _local
   base-scale 1 250
-  
+
+  statistics topo-length on  
   debug station-names
   debug scrap-names
   #color map-fg scrap

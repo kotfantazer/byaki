@@ -158,7 +158,7 @@ S   328.40 @ ()
 ########## end of export maps & scraps selection ###############
 writing byaki_p_work.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  27 JAN 2025 00:25
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  27 JAN 2025 00:36
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -185,7 +185,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  27 JAN 2025 00:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  27 JAN 2025 00:36
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -197,7 +197,7 @@ rogram Files/Therion/texmf/fonts/pdftex.map})
 Here is how much of TeX's memory you used:
  341 strings out of 95671
  4639 string characters out of 1192323
- 158295 words of memory out of 1638338
+ 158497 words of memory out of 1638540
  1737 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  844 hyphenation exceptions out of 5000
@@ -205,7 +205,7 @@ Here is how much of TeX's memory you used:
 <c:/Program Files/Therion/texmf/fonts/type1/cmcss10.pfb><c:/Program Files
 /Therion/texmf/fonts/type1/cmss10.pfb><c:/Program Files/Therion/texmf/fonts/typ
 e1/cmssi10.pfb>
-Output written on data.pdf (1 page, 566875 bytes).
+Output written on data.pdf (1 page, 567151 bytes).
 PDF statistics:
  202 PDF objects out of 1000 (max. 8388607)
  105 compressed objects within 2 object streams
@@ -240,7 +240,7 @@ S   328.40 @ ()
 ########## end of export maps & scraps selection ###############
 writing byaki_p_work.svg ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  27 JAN 2025 00:25
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  27 JAN 2025 00:36
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -293,7 +293,7 @@ S   328.40 @ ()
 ########## end of export maps & scraps selection ###############
 writing byaki_p_atlas.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  27 JAN 2025 00:25
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  27 JAN 2025 00:36
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -320,7 +320,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making atlas ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  27 JAN 2025 00:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  27 JAN 2025 00:36
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -335,7 +335,7 @@ rogram Files/Therion/texmf/fonts/pdftex.map})
 Here is how much of TeX's memory you used:
  442 strings out of 95671
  4917 string characters out of 1192323
- 88403 words of memory out of 1568446
+ 88605 words of memory out of 1568648
  1800 multiletter control sequences out of 15000+50000
  18801 words of font info for 60 fonts, out of 1000000 for 2000
  844 hyphenation exceptions out of 5000
@@ -354,7 +354,7 @@ PDF statistics:
 ##################### end of pdftex log file #####################
 done
 writing xtherion file ... done
-compilation time: 8 sec
+compilation time: 7 sec
 
 
 ######################### loop errors ##########################
