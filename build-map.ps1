@@ -1,0 +1,1 @@
+"C:\Program Files\Therion\therion.exe" -x _map\_th\p\p_work.thcfg _export\byaki_map.pdf
