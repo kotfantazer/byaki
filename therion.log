@@ -1,0 +1,10 @@
+C:\Program Files\Therion\therion.exe: warning -- too many input arguments
+therion 6.2.1 (2024-03-20)
+  - using Proj 9.3.1, compiled against 9.3.1
+initialization file: C:\Program Files\Therion/therion.ini
+reading ... done
+configuration file: D:\speleo\byaki\_map\_th\p\p_work.thcfg
+reading ... done
+reading source files ... 
+C:\Program Files\Therion\therion.exe: error -- can't open file for input -- ../../../_cl/_th/byaki
+writing xtherion file ... done
