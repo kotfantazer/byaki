@@ -6,3 +6,4 @@ export model -o ../../_export/_model/byaki.lox
 export model -o ../../_export/_model/byaki.plt
 export model -o ../../_export/_model/byaki.dxf 
 export model -o ../../_export/_model/byaki.kml
+export model -o ../../_surface/byaki.kml
