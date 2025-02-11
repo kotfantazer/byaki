@@ -156,9 +156,9 @@ S   328.61 @ ()
 S   327.62 @ ()
 S   328.40 @ ()
 ########## end of export maps & scraps selection ###############
-writing byaki_p_work.pdf ...
+writing ../../../_export/_map/byaki_p_work.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  11 FEB 2025 15:54
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  11 FEB 2025 16:04
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -185,7 +185,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  11 FEB 2025 15:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  11 FEB 2025 16:04
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -238,9 +238,9 @@ S   328.61 @ ()
 S   327.62 @ ()
 S   328.40 @ ()
 ########## end of export maps & scraps selection ###############
-writing byaki_p_work.svg ...
+writing ../../../_export/_map/byaki_p_work.svg ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  11 FEB 2025 15:54
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  11 FEB 2025 16:04
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -267,7 +267,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making svg map ... done
 done
-writing byaki_p_work.3d ... done
+writing ../../../_export/_map/byaki_p_work.3d ... done
 
 
 ############### export maps & scraps selection #################
@@ -291,9 +291,9 @@ S   328.61 @ ()
 S   327.62 @ ()
 S   328.40 @ ()
 ########## end of export maps & scraps selection ###############
-writing byaki_p_atlas.pdf ...
+writing ../../../_export/_map/byaki_p_atlas.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  11 FEB 2025 15:54
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  11 FEB 2025 16:04
 **data.mp
 (c:/Program Files/Therion/texmf/mpost/mpost.mp
 (c:/Program Files/Therion/texmf/mpost/plain.mp
@@ -320,7 +320,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making atlas ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  11 FEB 2025 15:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdfetex 2023.12.2)  11 FEB 2025 16:04
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex

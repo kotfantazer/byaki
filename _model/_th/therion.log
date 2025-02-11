@@ -2,7 +2,7 @@ therion 6.2.1 (2024-03-20)
   - using Proj 9.3.1, compiled against 9.3.1
 initialization file: C:\Program Files\Therion/therion.ini
 reading ... done
-configuration file: thconfig
+configuration file: D:\speleo\byaki\_model\_th\thconfig
 reading ... done
 reading source files ... done
 preprocessing database ... done
@@ -131,13 +131,13 @@ calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
-writing ../byaki.3d ... done
-writing ../byaki.lox ...
+writing ../../_export/_model/byaki.3d ... done
+writing ../../_export/_model/byaki.lox ...
 processing projection plan ... done
  done
-writing ../byaki.plt ... done
-writing ../byaki.dxf ... done
-writing ../byaki.kml ... done
+writing ../../_export/_model/byaki.plt ... done
+writing ../../_export/_model/byaki.dxf ... done
+writing ../../_export/_model/byaki.kml ... done
 writing xtherion file ... done
 compilation time: 1 sec
 

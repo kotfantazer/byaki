@@ -1,8 +1,8 @@
 encoding  utf-8
 source ../../_cl/_th/byaki
 
-export model -o ../byaki.3d
-export model -o ../byaki.lox
-export model -o ../byaki.plt
-export model -o ../byaki.dxf 
-export model -o ../byaki.kml
+export model -o ../../_export/_model/byaki.3d
+export model -o ../../_export/_model/byaki.lox
+export model -o ../../_export/_model/byaki.plt
+export model -o ../../_export/_model/byaki.dxf 
+export model -o ../../_export/_model/byaki.kml

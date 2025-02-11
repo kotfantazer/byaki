@@ -13,10 +13,10 @@ endlayout
 
 select work_p
 
-export map -o byaki_p_work.pdf -layout _local
-export map -o byaki_p_work.svg -layout _local
-export map -projection plan -output byaki_p_work.3d
+export map -o ../../../_export/_map/byaki_p_work.pdf -layout _local
+export map -o ../../../_export/_map/byaki_p_work.svg -layout _local
+export map -projection plan -output ../../../_export/_map/byaki_p_work.3d
 
-export atlas -projection plan -layout _local -output byaki_p_atlas.pdf  
+export atlas -projection plan -layout _local -output ../../../_export/_map/byaki_p_atlas.pdf  
 
 # export map -o byaki_p_work.png -layout _local
